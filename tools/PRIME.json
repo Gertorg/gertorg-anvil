@@ -1,0 +1,147 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "PRIME",
+				"abbreviation": "PRM",
+				"full": "PRIME",
+				"url": "",
+				"authors": [
+					"Gertorg"
+				],
+				"convertedBy": [
+					"Gertorg"
+				]
+			}
+		]
+	},
+	"spell": [
+		{
+			"name": "Alert",
+			"level": 1,
+			"school": "Hacking",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You create a program to alert you when certain conditions arise. This alarm must be used on a video camera network or some other type of sensor that can detect the trigger you set. Until the hack ends, you are alerted whenever your triggering condition is detected.",
+				"The alarm itself is only audible to you and people you invite to this hack trigger. The hack alerts you with a ping on your device when the triggering condition is sensed. This ping awakens you if you are sleeping.",
+				"Triggers are typically linked to video feeds, often using facial recognition, or a general “no one is allowed inside X” type command. This hack only affects one sensor (such as a camera or door). Attempts to evade trigger recognition require a Charisma (Deception) or Dexterity (Stealth) ability check against your hack DC."
+			],
+			"source": "PRIME",
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this power using a 2nd level spell slot, the duration increases to 8 hours. Using a 3rd level spell slot, the duration is 24 hours."
+					]
+				}
+			],
+			"areaTags": [
+				"ST"
+			],
+			"miscTags": [
+				"OBJ"
+			],
+			"fluff": {
+				"entries": [
+					"GeneFunk 2090"
+				]
+			}
+		},
+		{
+			"name": "Counterattack",
+			"level": 2,
+			"school": "Tactics",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1,
+						"upTo": true
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You direct your allies to openings in enemy defenses and bolster their confidence. When you cast this power, choose a number of creatures you can see within range equal to your proficiency bonus. For the duration, each of these creatures may use its reaction to make one weapon attack when it is hit by an attack."
+			],
+			"source": "PRIME",
+			"components": {
+				"v": true
+			},
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p. 119)"
+				]
+			},
+			"areaTags": [
+				"MT"
+			]
+		}
+	],
+	"condition": [
+		{
+			"name": "Suppressed",
+			"entries": [
+				{
+					"type": "list",
+					"items": [
+						"A suppressed creature has disadvantage on attack rolls."
+					]
+				}
+			],
+			"source": "PRIME"
+		}
+	]
+}
