@@ -132,6 +132,32 @@
 	],
 	"condition": [
 		{
+			"name": "Exposed",
+			"entries": [
+				{
+					"type": "list",
+					"items": [
+						"An exposed creature can't benefit from half or three-quarters cover."
+					]
+				}
+			],
+			"source": "PRIME"
+		},
+		{
+			"name": "Prone",
+			"entries": [
+				{
+					"type": "list",
+					"items": [
+						"A prone creature’s only movement option is to crawl, unless it stands up and thereby ends the condition.",
+						"The creature has disadvantage on attack rolls using melee or two-handed ranged weapons.",
+						"An attack roll against the creature has advantage if the attacker is within 5 feet of the creature. An attack roll has disadvantage if the attacker is beyond 15 feet of the creature."
+					]
+				}
+			],
+			"source": "PRIME"
+		},
+		{
 			"name": "Suppressed",
 			"entries": [
 				{
