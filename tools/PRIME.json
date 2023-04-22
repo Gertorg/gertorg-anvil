@@ -11,7 +11,8 @@
 				],
 				"convertedBy": [
 					"Gertorg"
-				]
+				],
+				"color": "ff00ff"
 			}
 		]
 	},
@@ -36,7 +37,7 @@
 			"name": "Flamethrower",
 			"type": "R",
 			"weapon": true,
-			"weaponCategory": "exotic",
+			"weaponCategory": "advanced",
 			"rarity": "none",
 			"value": 0,
 			"weight": 20,
