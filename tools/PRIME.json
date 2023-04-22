@@ -36,15 +36,27 @@
 			"name": "Flamethrower",
 			"type": "R",
 			"weapon": true,
-			"weaponCategory": "advanced",
+			"weaponCategory": "exotic",
 			"rarity": "none",
+			"value": 0,
 			"weight": 20,
 			"dmg1": "1d10",
 			"dmgType": "F",
 			"property": [
-				"AD"
+				"AD",
+				"S"
 			],
+			"range": "30/60",
 			"source": "PRM"
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"Due to the weight of its fuel canisters, this weapon requires an action to reload. Additionally, you have access to a special attack option. As an action, you can spray fire in a 15-foot cone or a 30-foot line that is 5 feet wide. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 3d6 fire damage. This action consumes 5 shots."
+					]
+				}
+			]
 		}
 	],
 	"spell": [
