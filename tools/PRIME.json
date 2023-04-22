@@ -15,7 +15,97 @@
 			}
 		]
 	},
+	"itemProperty": [
+		{
+			"abbreviation": "AD",
+			"source": "PRM",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Advanced Weapon",
+					"entries": [
+						""
+					]
+				}
+			]
+		}
+	],
+	"item": [
+		{
+			"name": "Flamethrower",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "advanced",
+			"rarity": "none",
+			"weight": 20,
+			"dmg1": "1d10",
+			"dmgType": "F",
+			"property": [
+				"AD"
+			],
+			"source": "PRM"
+		}
+	]
 	"spell": [
+		{
+			"name": "Advanced Treatment",
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 10,
+					"unit": "minute"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"Up to six creatures of your choice that you can see within range each regain hit points equal to {@dice 2d8} + your powercasting ability modifier. This power has no effect on undead or constructs."
+			],
+			"source": "PRIME",
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p. 110)",
+					"PHB (p. 267)"
+				]
+			},
+			"areaTags": [
+				"MT"
+			],
+			"components": {
+				"m": "medical tools"
+			},
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this power using a power slot of 3rd level or higher, the healing increases by {@dice 1d8} for each slot level above 2nd."
+					]
+				}
+			],
+			"miscTags": [
+				"HL"
+			]
+		},
 		{
 			"name": "Alert",
 			"level": 1,
@@ -99,8 +189,7 @@
 					"type": "timed",
 					"duration": {
 						"type": "minute",
-						"amount": 1,
-						"upTo": true
+						"amount": 1
 					},
 					"concentration": true
 				}
@@ -127,6 +216,524 @@
 			},
 			"areaTags": [
 				"MT"
+			]
+		},
+		{
+			"name": "Intercept Communications",
+			"level": 4,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 250
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You monitor all communications transmitted or received within range for the duration."
+			],
+			"source": "PRIME",
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p. 110)"
+				]
+			}
+		},
+		{
+			"name": "Gravity Field",
+			"level": 5,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Engineer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You deploy a device at a point you can see within range that creates a 30-foot-radius sphere of altered gravity centered on that point. When you cast this power, you choose the effect: high gravity, low gravity, or zero gravity."
+			],
+			"source": "PRIME",
+			"fluff": {
+				"entries": [
+					"Based on: Alter Gravity from Hyperlanes (p.110)"
+				]
+			},
+			"areaTags": [
+				"S"
+			]
+		},
+		{
+			"name": "Analysis",
+			"level": 3,
+			"school": "D",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 50
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"Choose one creature, object, or vehicle you can see within range. If the target is an object or vehicle, you learn all of its major functions and its current and maximum hit points. If the target is a creature, you learn its current and maximum hit points along with any damage immunities, resistances, or vulnerabilities it possesses."
+			],
+			"source": "PRIME",
+			"components": {
+				"m": "science tools"
+			},
+			"meta": {
+				"ritual": true
+			},
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p.110)"
+				]
+			},
+			"areaTags": [
+				"ST"
+			]
+		},
+		{
+			"name": "Electromagnetic Field",
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1,
+						"upTo": true
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You deploy a device at a point that you can see within range that creates an electromagnetic field in a 15-foot-radius sphere around it. Within this sphere, creatures must roll a {@dice d10} each time they attempt to use a different device that relies on electronics to function. The roll is made before the device is used or attack is made. On a roll of 6 or higher, the device functions normally; otherwise, it ceases to function until the start of their next turn or until they leave the field."
+			],
+			"source": "PRIME",
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When casting this power using a power slot of 4th level or higher, all electronic devices cease to function while within the field."
+					]
+				}
+			],
+			"fluff": {
+				"entries": [
+					"Based on Hyperlanes Antiscience Field (p. 110)"
+				]
+			},
+			"areaTags": [
+				"S"
+			]
+		},
+		{
+			"name": "Precision Fire",
+			"level": 3,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"For the duration, your ranged weapon attacks ignore half and three-quarters cover."
+			],
+			"source": "PRIME",
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this power using a power slot of 4th level, you can maintain your {@status concentration} on the power for up to 1 hour. When you use a power slot of 5th level, you can maintain your {@status concentration} on the spell for up to 8 hours."
+					]
+				}
+			],
+			"fluff": {
+				"entries": [
+					"Based on Arcing Fire from Hyperlanes (p. 111)"
+				]
+			}
+		},
+		{
+			"name": "Elemental Ammo",
+			"level": 1,
+			"school": "T",
+			"time": [
+				{
+					"number": 1,
+					"unit": "bonus"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "special"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Engineer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You reload your weapon with a canister containing special ammunition. Choose a damage type: cold, fire, or lightning. Your attacks with the weapon deal an additional {@damage 1d6} damage of the selected type. This effect lasts until six pieces of ammunition have been expended."
+			],
+			"source": "PRIME",
+			"damageInflict": [
+				"cold",
+				"fire",
+				"lightning"
+			],
+			"components": {
+				"m": "Ranged weapon with the reload property"
+			}
+		},
+		{
+			"name": "Dead Aim",
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You have advantage on ranged attacks while you maintain {@status concentration} on this power."
+			],
+			"source": "PRIME",
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p. 121)"
+				]
+			}
+		},
+		{
+			"name": "Bash",
+			"level": 0,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "radius",
+				"distance": {
+					"type": "feet",
+					"amount": 5
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Engineer",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"Make a melee power attack against a creature within 5 feet of you. On a hit, the target takes {@damage 1d8} bludgeoning damage. If the target is a construct, the damage is instead {@damage 1d12} bludgeoning damage.",
+				"The power's damage increases by one die when you reach 5th level ({@dice 2d8} or {@dice 2d12}), 11th level ({@dice 3d8} or {@dice 3d12}), and 17th level ({@dice 4d8} or {@dice 4d12})."
+			],
+			"source": "PRIME",
+			"components": {
+				"m": "Mechanic's tools"
+			},
+			"damageInflict": [
+				"bludgeoning"
+			],
+			"spellAttack": [
+				"M"
+			]
+		},
+		{
+			"name": "Maneuver",
+			"level": 0,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"One creature you choose within range can immediately move up to its speed."
+			],
+			"source": "PRIME",
+			"components": {
+				"v": true
+			}
+		},
+		{
+			"name": "Taunt",
+			"level": 0,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You attempt to goad a target into attacking you. Choose one creature you can see within range. The creature must succeed on a Wisdom saving throw or suffer disadvantage on all attack rolls against targets other than you until the start of your next turn."
+			],
+			"source": "PRIME",
+			"components": {
+				"v": true
+			},
+			"fluff": {
+				"entries": [
+					"Hyperlanes (Enemies, p. 124)"
+				]
+			},
+			"savingThrow": [
+				"wisdom"
+			],
+			"areaTags": [
+				"ST"
+			]
+		},
+		{
+			"name": "Happy Gas",
+			"level": 0,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 10
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "",
+						"source": "PRIME"
+					}
+				]
+			},
+			"entries": [
+				"You deploy an imperceptible mood-altering gas at a creature within range that isn't hostile toward you. For the duration, you have advantage on all Charisma checks directed at that creature. The effect ends early if you are more than 10 feet from the target for longer than 10 seconds.",
+				"When the spell ends, the creature realizes that you used a substance to influence its mood and becomes hostile toward you. A creature {@condition prone} to violence might attack you. Another creature might seek retribution in other ways (at the DM’s discretion), depending on the nature of your interaction with it."
+			],
+			"source": "PRIME",
+			"abilityCheck": [
+				"charisma"
+			],
+			"areaTags": [
+				"ST"
 			]
 		}
 	],
