@@ -31,7 +31,7 @@
 					]
 				}
 			],
-			"template": "{{prop_name}}-item.ammoType ({{item.range}}\u00A0ft.)"
+			"template": "{{prop_name}} ({{item.ammoType}}, {{item.range}}\u00A0ft.)"
 		}
 	],
 	"item": [
