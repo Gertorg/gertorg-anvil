@@ -92,6 +92,24 @@
 			"club": true,
 			"weapon": true
 		},
+		{
+			"name": "Dart",
+			"source": "PRM",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 0.25,
+			"value": 0.5,
+			"weaponCategory": "simple",
+			"property": [
+				"F",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"weapon": true
+		},
 		{	"name": "Chainsaw",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
