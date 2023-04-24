@@ -18,12 +18,13 @@
 		"currencyConversions": {
 			"UniversalCredits": [
 				{
-					"coin": "cr",
+					"coin": "bt",
 					"mult": 1
 				},
 				{
-					"coin": "bt",
-					"mult": 10
+					"coin": "cr",
+					"mult": 0.1,
+					"isFallback": true
 				}
 			]
 		}
