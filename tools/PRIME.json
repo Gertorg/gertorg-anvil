@@ -1,18 +1,21 @@
 {
 	"_meta": {
+		"dateAdded": 0,
+		"dateLastModified": 0,
 		"sources": [
 			{
 				"json": "PRM",
 				"abbreviation": "PRM",
 				"full": "PRIME",
-				"url": "",
+				"url": "https://www.worldanvil.com/w/prime-gertorg",
 				"authors": [
 					"Gertorg"
 				],
 				"convertedBy": [
 					"Gertorg"
 				],
-				"color": "00ff82"
+				"color": "00ff82",
+				"version": "0.1"
 			}
 		],
 		"currencyConversions": {
@@ -23,7 +26,8 @@
 				},
 				{
 					"coin": "cr",
-					"mult": 0.1
+					"mult": 0.1,
+					"isFallback": true
 				}
 			]
 		}
@@ -94,6 +98,7 @@
 		{
 			"name": "Dart",
 			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
 			"page": 0,
 			"type": "R",
 			"rarity": "none",
@@ -895,7 +900,8 @@
 					]
 				}
 			],
-			"source": "PRM"
+			"source": "PRM",
+			"page": 0
 		},
 		{
 			"name": "Prone",
@@ -909,7 +915,8 @@
 					]
 				}
 			],
-			"source": "PRM"
+			"source": "PRM",
+			"page": 0
 		},
 		{
 			"name": "Suppressed",
@@ -921,7 +928,8 @@
 					]
 				}
 			],
-			"source": "PRM"
+			"source": "PRM",
+			"page": 0
 		}
 	]
 }
