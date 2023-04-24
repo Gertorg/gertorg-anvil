@@ -34,7 +34,7 @@
 			"template": "{{prop_name}} ({{item.ammoType}}, {{item.range}}\u00A0ft.)"
 		}
 	],
-	"item": [
+	"baseitem": [
 		{
 			"name": "Flamethrower",
 			"type": "R",
@@ -49,7 +49,7 @@
 				"AM",
 				"S"
 			],
-			"ammoType": "fuel",
+			"ammoType": "{@baseitem fuel|prm}",
 			"range": "30/60",
 			"source": "PRM",
 			"entries": [
@@ -61,7 +61,15 @@
 					]
 				}
 			]
-		}
+		},
+		{
+			"name": "Fuel",
+			"source": "PRM",
+			"type": "A",
+			"rarity": "none",
+			"weight": 0.05,
+			"value": 5
+		},
 	],
 	"spell": [
 		{
