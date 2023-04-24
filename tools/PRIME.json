@@ -51,7 +51,7 @@
 			],
 			"ammoType": "{@item fuel|prm}",
 			"range": "30/60",
-			"source": "PRIME",
+			"source": "PRM",
 			"entries": [
 				{
 					"type": "entries",
@@ -64,7 +64,7 @@
 		},
 		{
 			"name": "Fuel",
-			"source": "PRIME",
+			"source": "PRM",
 			"type": "A",
 			"rarity": "none",
 			"weight": 0.05,
