@@ -19,12 +19,12 @@
 			"UniversalCredits": [
 				{
 					"coin": "bt",
-					"mult": 1
+					"mult": 1,
+					"isFallback": true
 				},
 				{
 					"coin": "cr",
-					"mult": 0.1,
-					"isFallback": true
+					"mult": 0.1
 				}
 			]
 		}
