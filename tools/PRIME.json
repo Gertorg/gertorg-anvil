@@ -42,14 +42,14 @@
 					"type": "entries",
 					"name": "Chain",
 					"entries": [
-						"You have access to a special attack option. Immediately after hitting a creature with this weapon as part of the Attack action, you can choose to sustain the initial hit and "chain" any remaining attacks that you would normally have access to through the Extra Attack feature. When you do so, you forfeit all remaining attacks and deal additional damage of the weapon's primary damage type equal to the number listed in parentheses for each forfeited attack."
+						"You have access to a special attack option. Immediately after hitting a creature with this weapon as part of the Attack action, you can choose to sustain the initial hit and \"chain\" any remaining attacks that you would normally have access to through the Extra Attack feature. When you do so, you forfeit all remaining attacks and deal additional damage of the weapon's primary damage type equal to the number listed in parentheses for each forfeited attack."
 					]
 				}
 			],
 			"template": "{{prop_name}} ({{item.dmg2}})"
 		},
 		{
-			"abbreviation": "ST",
+			"abbreviation": "STR",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -79,7 +79,7 @@
 			"property": [
 				"CH",
 				"H",
-				"ST",
+				"STR",
 				"2H"
 			],
 			"source": "PRM"
