@@ -49,7 +49,7 @@
 				"AM",
 				"S"
 			],
-			"ammoType": "{@baseitem fuel|prm}",
+			"ammoType": "{@item fuel|prm}",
 			"range": "30/60",
 			"source": "PRM",
 			"entries": [
