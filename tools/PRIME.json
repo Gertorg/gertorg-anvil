@@ -23,7 +23,7 @@
 				},
 				{
 					"coin": "bt",
-					"mult": 0.1,
+					"mult": 10,
 					"isFallback": true
 				}
 			]
