@@ -32,9 +32,59 @@
 				}
 			],
 			"template": "{{prop_name}} ({{item.ammoType}}, {{item.range}}\u00A0ft.)"
+		},
+		{
+			"abbreviation": "CH",
+			"source": "PRM",
+			"page": 0,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Chain",
+					"entries": [
+						"You have access to a special attack option. Immediately after hitting a creature with this weapon as part of the Attack action, you can choose to sustain the initial hit and "chain" any remaining attacks that you would normally have access to through the Extra Attack feature. When you do so, you forfeit all remaining attacks and deal additional damage of the weapon's primary damage type equal to the number listed in parentheses for each forfeited attack."
+					]
+				}
+			],
+			"template": "{{prop_name}} ({{item.dmg2}})"
+		},
+		{
+			"abbreviation": "STR",
+			"source": "PRM",
+			"page": 0,
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Strength",
+					"entries": [
+						"This property is accompanied by a number, which is the minimum Strength score required to wield the weapon effectively. If you do not meet this requirement, you have disadvantage on all attack rolls made with the weapon."
+					]
+				}
+			],
+			"template": "{{prop_name}} {{item.strength}}"
 		}
 	],
 	"baseitem": [
+		{
+			"name": "Chainsaw",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "advanced",
+			"rarity": "none",
+			"value": 0,
+			"weight": 15,
+			"dmg1": "2d6",
+			"dmg2": "3d6",
+			"dmgType": "S",
+			"strength": "15",
+			"property": [
+				"CH",
+				"H",
+				"STR",
+				"2H"
+			],
+			"source": "PRM"
+		},
 		{
 			"name": "Flamethrower",
 			"type": "R",
