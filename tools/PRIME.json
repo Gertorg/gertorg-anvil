@@ -19,11 +19,11 @@
 			"UniversalCredits": [
 				{
 					"coin": "cr",
-					"mult": 1
+					"mult": 10
 				},
 				{
 					"coin": "bt",
-					"mult": 10,
+					"mult": 1,
 					"isFallback": true
 				}
 			]
@@ -82,7 +82,7 @@
 			"type": "M",
 			"rarity": "none",
 			"weight": 2,
-			"value": 10,
+			"value": 100,
 			"weaponCategory": "simple",
 			"property": [
 				"L"
@@ -99,7 +99,7 @@
 			"type": "R",
 			"rarity": "none",
 			"weight": 0.25,
-			"value": 0.5,
+			"value": 5,
 			"weaponCategory": "simple",
 			"property": [
 				"F",
