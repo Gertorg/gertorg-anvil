@@ -14,11 +14,23 @@
 				],
 				"color": "00ff82"
 			}
-		]
+		],
+		"currencyConversions": {
+			"UniversalCredits": [
+				{
+					"coin": "cr",
+					"mult": 1,
+					"isFallback": true
+				},
+				{
+					"coin": "bt",
+					"mult": 0.1
+				}
+			]
+		},
 	},
 	"itemProperty": [
-		{
-			"abbreviation": "AM",
+		{	"abbreviation": "AM",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -33,8 +45,7 @@
 			],
 			"template": "{{prop_name}} ({{item.ammoType}}, {{item.range}}\u00A0ft.)"
 		},
-		{
-			"abbreviation": "CH",
+		{	"abbreviation": "CH",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -48,8 +59,7 @@
 			],
 			"template": "{{prop_name}} ({{item.dmg2}})"
 		},
-		{
-			"abbreviation": "STR",
+		{	"abbreviation": "STR",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -65,7 +75,25 @@
 		}
 	],
 	"baseitem": [
+		{	"name": "Club",
+			"source": "PRM",
+			"page": 0,
+			"type": "M",
+			"rarity": "none",
+			"weight": 2,
+			"value": 10,
+			"weaponCategory": "simple",
+			"property": [
+				"L"
+			],
+			"dmg1": "1d4",
+			"dmgType": "B",
+			"club": true,
+			"weapon": true
+		},
 		{	"name": "Chainsaw",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
 			"type": "M",
 			"weapon": true,
 			"weaponCategory": "advanced",
@@ -81,10 +109,53 @@
 				"H",
 				"STR",
 				"2H"
+			]
+		},
+		{	"name": "Mini Chainsaw",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "advanced",
+			"rarity": "none",
+			"value": 0,
+			"weight": 6,
+			"dmg1": "2d4",
+			"dmg2": "3d4",
+			"dmgType": "S",
+			"strength": "13",
+			"property": [
+				"CH",
+				"STR"
+			]
+		},
+		{	"name": "Power Gauntlet",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "advanced",
+			"rarity": "none",
+			"value": 0,
+			"weight": 6,
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"property": [
+				"S"
 			],
-			"source": "PRM"
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"This weapon features a hydraulic piston that can be used to add force to your punches. When you hit a creature with this weapon, you can activate the piston. When you do so, the weapon's damage dice becomes 1d10, and you add your proficiency bonus instead of your Strength modifier to the attack's damage. Once the piston has been activated, the system must recharge and it cannot be used again until the start of your next turn."
+					]
+				}
+			]
 		},
 		{	"name": "Flamethrower",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
 			"type": "R",
 			"weapon": true,
 			"weaponCategory": "advanced",
@@ -93,13 +164,12 @@
 			"weight": 20,
 			"dmg1": "1d10",
 			"dmgType": "F",
+			"ammoType": "{@item fuel|prm}",
+			"range": "30/60",
 			"property": [
 				"AM",
 				"S"
 			],
-			"ammoType": "{@item fuel|prm}",
-			"range": "30/60",
-			"source": "PRM",
 			"entries": [
 				{
 					"type": "entries",
@@ -111,6 +181,7 @@
 			]
 		},
 		{	"name": "Fuel",
+			"currencyConversion": "UniversalCredits",
 			"source": "PRM",
 			"type": "A",
 			"rarity": "none",
