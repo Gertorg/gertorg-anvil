@@ -77,6 +77,7 @@
 	"baseitem": [
 		{	"name": "Club",
 			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
 			"page": 0,
 			"type": "M",
 			"rarity": "none",
