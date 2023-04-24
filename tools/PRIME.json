@@ -65,8 +65,7 @@
 		}
 	],
 	"baseitem": [
-		{
-			"name": "Chainsaw",
+		{	"name": "Chainsaw",
 			"type": "M",
 			"weapon": true,
 			"weaponCategory": "advanced",
@@ -85,8 +84,7 @@
 			],
 			"source": "PRM"
 		},
-		{
-			"name": "Flamethrower",
+		{	"name": "Flamethrower",
 			"type": "R",
 			"weapon": true,
 			"weaponCategory": "advanced",
@@ -112,8 +110,7 @@
 				}
 			]
 		},
-		{
-			"name": "Fuel",
+		{	"name": "Fuel",
 			"source": "PRM",
 			"type": "A",
 			"rarity": "none",
@@ -122,8 +119,7 @@
 		}
 	],
 	"spell": [
-		{
-			"name": "Advanced Treatment",
+		{	"name": "Advanced Treatment",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -181,8 +177,7 @@
 				"HL"
 			]
 		},
-		{
-			"name": "Alert",
+		{	"name": "Alert",
 			"level": 1,
 			"school": "Hacking",
 			"time": [
@@ -242,8 +237,7 @@
 				]
 			}
 		},
-		{
-			"name": "Counterattack",
+		{	"name": "Counterattack",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -293,8 +287,7 @@
 				"MT"
 			]
 		},
-		{
-			"name": "Intercept Communications",
+		{	"name": "Intercept Communications",
 			"level": 4,
 			"school": "D",
 			"time": [
@@ -338,8 +331,7 @@
 				]
 			}
 		},
-		{
-			"name": "Gravity Field",
+		{	"name": "Gravity Field",
 			"level": 5,
 			"school": "A",
 			"time": [
@@ -386,8 +378,7 @@
 				"S"
 			]
 		},
-		{
-			"name": "Analysis",
+		{	"name": "Analysis",
 			"level": 3,
 			"school": "D",
 			"time": [
@@ -435,8 +426,7 @@
 				"ST"
 			]
 		},
-		{
-			"name": "Electromagnetic Field",
+		{	"name": "Electromagnetic Field",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -493,8 +483,7 @@
 				"S"
 			]
 		},
-		{
-			"name": "Precision Fire",
+		{	"name": "Precision Fire",
 			"level": 3,
 			"school": "A",
 			"time": [
@@ -546,8 +535,7 @@
 				]
 			}
 		},
-		{
-			"name": "Elemental Ammo",
+		{	"name": "Elemental Ammo",
 			"level": 1,
 			"school": "T",
 			"time": [
@@ -588,8 +576,7 @@
 				"m": "Ranged weapon with the reload property"
 			}
 		},
-		{
-			"name": "Dead Aim",
+		{	"name": "Dead Aim",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -632,8 +619,7 @@
 				]
 			}
 		},
-		{
-			"name": "Bash",
+		{	"name": "Bash",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -677,8 +663,7 @@
 				"M"
 			]
 		},
-		{
-			"name": "Maneuver",
+		{	"name": "Maneuver",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -715,8 +700,7 @@
 				"v": true
 			}
 		},
-		{
-			"name": "Taunt",
+		{	"name": "Taunt",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -764,8 +748,7 @@
 				"ST"
 			]
 		},
-		{
-			"name": "Happy Gas",
+		{	"name": "Happy Gas",
 			"level": 0,
 			"school": "A",
 			"time": [
