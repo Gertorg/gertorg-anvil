@@ -290,6 +290,33 @@
 			"dmgType": "B",
 			"weapon": true
 		},
+		{	"name": "Flamethrower",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"type": "R",
+			"weapon": true,
+			"weaponCategory": "advanced",
+			"rarity": "none",
+			"value": 0,
+			"weight": 20,
+			"dmg1": "1d10",
+			"dmgType": "F",
+			"ammoType": "{@item fuel|prm}",
+			"range": "30/60",
+			"property": [
+				"AM",
+				"S"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"Due to the weight of its fuel canisters, this weapon requires an action to reload. Additionally, you have access to a special attack option. As an action, you can spray fire in a 15-foot cone or a 30-foot line that is 5 feet wide. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 3d6 fire damage. This action consumes 5 shots."
+					]
+				}
+			]
+		},
 		{	"name": "Glaive",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
@@ -381,10 +408,11 @@
 			"value": 200,
 			"weaponCategory": "simple",
 			"property": [
+				"LT",
 				"T"
 			],
 			"range": "20/60",
-			"dmg1": "1d6",
+			"dmg1": "1d4",
 			"dmgType": "B",
 			"hammer": true,
 			"weapon": true
@@ -576,6 +604,42 @@
 				"STR"
 			]
 		},
+		{	"name": "Morningstar",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 4,
+			"value": 1500,
+			"weaponCategory": "martial",
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"mace": true,
+			"weapon": true
+		},
+		{	"name": "Pike",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 18,
+			"value": 500,
+			"weaponCategory": "martial",
+			"property": [
+				"H",
+				"R",
+				"2H"
+			],
+			"dmg1": "1d10",
+			"dmgType": "P",
+			"weapon": true
+		},
 		{	"name": "Power Gauntlet",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
@@ -600,32 +664,184 @@
 				}
 			]
 		},
-		{	"name": "Flamethrower",
+		{	"name": "Rapier",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
-			"type": "R",
-			"weapon": true,
-			"weaponCategory": "advanced",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
 			"rarity": "none",
-			"value": 0,
-			"weight": 20,
-			"dmg1": "1d10",
-			"dmgType": "F",
-			"ammoType": "{@item fuel|prm}",
-			"range": "30/60",
+			"weight": 2,
+			"value": 2500,
+			"weaponCategory": "martial",
+			"property": [
+				"F"
+			],
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"sword": true,
+			"weapon": true
+		},
+		{	"name": "Scimitar",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 3,
+			"value": 2500,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"L"
+			],
+			"dmg1": "1d6",
+			"dmgType": "S",
+			"sword": true,
+			"weapon": true
+		},
+		{	"name": "Shortbow",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "R",
+			"rarity": "none",
+			"weight": 2,
+			"value": 2000,
+			"weaponCategory": "simple",
 			"property": [
 				"AM",
-				"S"
+				"2H"
 			],
-			"entries": [
-				{
-					"type": "entries",
-					"name": "Special",
-					"entries": [
-						"Due to the weight of its fuel canisters, this weapon requires an action to reload. Additionally, you have access to a special attack option. As an action, you can spray fire in a 15-foot cone or a 30-foot line that is 5 feet wide. Each creature in that area must succeed on a DC 15 Dexterity saving throw or take 3d6 fire damage. This action consumes 5 shots."
-					]
-				}
-			]
+			"range": "80/320",
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"bow": true,
+			"weapon": true,
+			"ammoType": "{@item arrow|prm}"
+		},
+		{	"name": "Shortsword",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 2,
+			"value": 1000,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"L"
+			],
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"sword": true,
+			"weapon": true
+		},
+		{	"name": "Spear",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 3,
+			"value": 150,
+			"weaponCategory": "simple",
+			"property": [
+				"T",
+				"V"
+			],
+			"range": "20/60",
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"dmg2": "1d8",
+			"spear": true,
+			"weapon": true
+		},
+		{	"name": "Staff",
+			"source": "PRM",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 4,
+			"value": 200,
+			"weaponCategory": "simple",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d6",
+			"dmgType": "B",
+			"dmg2": "1d8",
+			"weapon": true
+		},
+		{	"name": "Throwing Knife",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 0.25,
+			"value": 100,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"LT",
+				"T"
+			],
+			"range": "20/60",
+			"dmg1": "1d4",
+			"dmgType": "P",
+			"weapon": true
+		},
+		{	"name": "Warhammer",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 4,
+			"value": 1500,
+			"weaponCategory": "martial",
+			"property": [
+				"V"
+			],
+			"dmg1": "1d8",
+			"dmgType": "B",
+			"dmg2": "1d10",
+			"hammer": true,
+			"weapon": true
+		},
+		{	"name": "Whip",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"srd": true,
+			"basicRules": true,
+			"type": "M",
+			"rarity": "none",
+			"weight": 3,
+			"value": 300,
+			"weaponCategory": "martial",
+			"property": [
+				"F",
+				"R"
+			],
+			"dmg1": "1d4",
+			"dmgType": "S",
+			"weapon": true
 		},
 		{	"name": "Arrow",
 			"source": "PRM",
@@ -636,6 +852,24 @@
 			"type": "A",
 			"rarity": "none",
 			"weight": 0.05,
+			"value": 10
+		},
+		{	"name": "Bullet, Low-calibre",
+			"source": "PRM",
+			"page": 0,
+			"type": "A",
+			"rarity": "none",
+			"weight": 0.1,
+			"age": "modern",
+			"value": 5
+		},
+		{	"name": "Bullet, Medium-calibre",
+			"source": "PRM",
+			"page": 0,
+			"type": "A",
+			"rarity": "none",
+			"weight": 0.15,
+			"age": "modern",
 			"value": 10
 		},
 		{	"name": "Crossbow Bolt",
