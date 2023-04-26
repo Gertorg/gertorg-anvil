@@ -30,6 +30,18 @@
 					"isFallback": true
 				}
 			]
+		},
+		"spellSchools": {
+			"MU": {
+				"full": "Munitions",
+				"short": "Mun.",
+				"color": "0078c8"
+			},
+			"TC": {
+				"full": "Tactics",
+				"short": "Tact.",
+				"color": "FFB000"
+			}
 		}
 	},
 	"itemProperty": [
@@ -671,7 +683,7 @@
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
-			"type": "SA",
+			"type": "R",
 			"rarity": "none",
 			"weight": 4,
 			"value": 3000,
@@ -684,7 +696,7 @@
 			"range": "25/50",
 			"dmg1": "1d6",
 			"dmgType": "P",
-			"firearm": true,
+			"firearm": false,
 			"weapon": true,
 			"ammoType": "{@item shotgun shell|prm}",
 			"age": "sidearm"
