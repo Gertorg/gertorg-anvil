@@ -696,10 +696,9 @@
 			"range": "25/50",
 			"dmg1": "1d6",
 			"dmgType": "P",
-			"firearm": false,
+			"firearm": true,
 			"weapon": true,
-			"ammoType": "{@item shotgun shell|prm}",
-			"age": "sidearm"
+			"ammoType": "{@item shotgun shell|prm}"
 		},
 		{	"name": "Power Gauntlet",
 			"source": "PRM",
