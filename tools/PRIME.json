@@ -671,7 +671,7 @@
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
-			"type": "R",
+			"type": "SA",
 			"rarity": "none",
 			"weight": 4,
 			"value": 3000,
