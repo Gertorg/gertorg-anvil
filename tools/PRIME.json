@@ -686,7 +686,8 @@
 			"dmgType": "P",
 			"firearm": true,
 			"weapon": true,
-			"ammoType": "{@item shotgun shell|prm}"
+			"ammoType": "{@item shotgun shell|prm}",
+			"age": "sidearm"
 		},
 		{	"name": "Power Gauntlet",
 			"source": "PRM",
