@@ -543,6 +543,67 @@
 			"weapon": true,
 			"ammoType": "{@item crossbow bolt|prm}"
 		},
+		{	"name": "Launcher, grenade",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 7,
+			"value": 0,
+			"weaponCategory": "advanced",
+			"property": [
+				"AM",
+				"LD",
+				"2H"
+			],
+			"range": "120",
+			"dmg1": "Special",
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item grenade|prm}",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"This weapon is used to fire grenade items. The type of grenade determines the damage or effect. When a grenade launched from this weapon forces a creature to make a saving throw, the DC is equal to 8 + your Dexterity modifier. You add your proficiency bonus to the DC if you are proficient with this weapon.",
+						"You can target a creature or an area when launching a grenade. When targeting a creature, make an attack roll against the creature. On a hit, the target takes bludgeoning damage equal to 1d8 plus your Dexterity modifier. Regardless of a hit, the creature's space becomes the origin of the effect."
+					]
+				}
+			]
+		},
+		{	"name": "Launcher, rocket",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 12,
+			"value": 0,
+			"weaponCategory": "advanced",
+			"property": [
+				"AM",
+				"H",
+				"LD",
+				"2H"
+			],
+			"range": "180",
+			"dmg1": "Special",
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item rocket|prm}",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"This weapon is used to fire rocket items. The type of rocket determines the damage or effect. When a rocket launched from this weapon forces a creature to make a saving throw, the DC is equal to 8 + your Dexterity modifier. You add your proficiency bonus to the DC if you are proficient with this weapon.",
+						"You can target a creature or an area when launching a rocket. When targeting a creature, make an attack roll against the creature. On a hit, the target automatically fails its saving throw against the rocket's effect. Regardless of a hit, the creature's space becomes the origin of the effect."
+					]
+				}
+			]
+		},
 		{	"name": "Light Crossbow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
@@ -565,6 +626,31 @@
 			"crossbow": true,
 			"weapon": true,
 			"ammoType": "{@item crossbow bolt|prm}"
+		},
+		{	"name": "Light machine gun (LMG)",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 15,
+			"value": 0,
+			"weaponCategory": "martial",
+			"property": [
+				"AM",
+				"AU",
+				"H",
+				"RL",
+				"2H"
+			],
+			"range": "100/400",
+			"dmg1": "1d8",
+			"dmg2": "1d10",
+			"dmgType": "P",
+			"reload": 80,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, medium-caliber|prm}"
 		},
 		{	"name": "Longbow",
 			"source": "PRM",
@@ -803,6 +889,7 @@
 			"range": "25/50",
 			"dmg1": "1d6",
 			"dmgType": "P",
+			"reload": 2,
 			"firearm": true,
 			"weapon": true,
 			"ammoType": "{@item shotgun shell|prm}"
@@ -849,6 +936,85 @@
 			"dmgType": "P",
 			"sword": true,
 			"weapon": true
+		},
+		{	"name": "Rifle, assault",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 7,
+			"value": 8000,
+			"weaponCategory": "martial",
+			"property": [
+				"AM",
+				"AU",
+				"RL",
+				"2H"
+			],
+			"range": "80/320",
+			"dmg1": "1d8",
+			"dmg2": "1d10",
+			"dmgType": "P",
+			"reload": 30,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, medium-caliber|prm}"
+		},
+		{	"name": "Rifle, energy",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 9,
+			"value": 15000,
+			"weaponCategory": "martial",
+			"property": [
+				"AM",
+				"RL",
+				"2H"
+			],
+			"range": "80/320",
+			"dmg1": "1d8",
+			"dmgType": "R",
+			"reload": 16,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item energy cell|prm}"
+		},
+		{	"name": "Rifle, sniper",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 12,
+			"value": 0,
+			"weaponCategory": "advanced",
+			"property": [
+				"AM",
+				"H",
+				"RL",
+				"S",
+				"2H"
+			],
+			"range": "150/600",
+			"dmg1": "1d12",
+			"dmgType": "P",
+			"reload": 6,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, high-caliber|prm}",
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"This weapon is cumbersome to wield and is designed for accuracy at long ranges. When attacking with this weapon, you have disadvantage on attack rolls against targets within 30 feet of you. Additionally, because of the time required to line up an accurate shot, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make, unless you move 0 feet on your turn."
+					]
+				}
+			]
 		},
 		{	"name": "Scimitar",
 			"source": "PRM",
@@ -912,6 +1078,30 @@
 			"sword": true,
 			"weapon": true
 		},
+		{	"name": "Shotgun",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 10,
+			"value": 5000,
+			"weaponCategory": "martial",
+			"property": [
+				"AM",
+				"FD",
+				"H",
+				"SPR",
+				"2H"
+			],
+			"range": "30/60",
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"reload": 6,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item shotgun shell|prm}"
+		},
 		{	"name": "Spear",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
@@ -952,6 +1142,30 @@
 			"dmgType": "B",
 			"dmg2": "1d8",
 			"weapon": true
+		},
+		{	"name": "Submachine gun (SMG)",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 6,
+			"value": 6000,
+			"weaponCategory": "martial",
+			"property": [
+				"AM",
+				"AU",
+				"RL",
+				"2H"
+			],
+			"range": "60/180",
+			"dmg1": "1d6",
+			"dmg2": "1d8",
+			"dmgType": "P",
+			"reload": 60,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, low-caliber|prm}"
 		},
 		{	"name": "Throwing Knife",
 			"source": "PRM",
@@ -1022,6 +1236,15 @@
 			"weight": 0.05,
 			"value": 10
 		},
+		{	"name": "Bullet, High-caliber",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "A",
+			"rarity": "none",
+			"weight": 0.2,
+			"value": 50
+		},
 		{	"name": "Bullet, Low-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
@@ -1067,6 +1290,24 @@
 			"rarity": "none",
 			"weight": 6,
 			"value": 750
+		},
+		{	"name": "Grenade",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "A",
+			"rarity": "none",
+			"weight": 0.5,
+			"value": 1000
+		},
+		{	"name": "Rocket",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "A",
+			"rarity": "none",
+			"weight": 2,
+			"value": 1500
 		},
 		{	"name": "Shotgun Shell",
 			"source": "PRM",
