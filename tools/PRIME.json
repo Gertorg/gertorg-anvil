@@ -103,7 +103,8 @@
 						"A firearm with the feed property can only hold a limited number of ammunition rounds at a time, and it can only be loaded one round at a time. You can use a bonus action or substitute one of your attacks as part of the Attack action to load one round into the weapon. Alternatively, you can use an action to fully reload the weapon to its capacity, which is listed with this property in parentheses."
 					]
 				}
-			]
+			],
+			"template": "{{prop_name}} ({{item.reload}} shots)"
 		},
 		{	"name": "light",
 			"abbreviation": "LT",
@@ -145,7 +146,8 @@
 						"Weapons with the reload property can connect to a container of ammunition, such as a magazine, energy cell, or fuel tank. A limited number of shots can be consumed—indicated by the number in parentheses—before the container must be replaced using your choice of an action or a bonus action. You must have a replacement container of the appropriate size and type to reload the weapon."
 					]
 				}
-			]
+			],
+			"template": "{{prop_name}} ({{item.reload}} shots)"
 		},
 		{	"name": "spread",
 			"abbreviation": "SPR",
@@ -697,6 +699,93 @@
 			"dmgType": "P",
 			"weapon": true
 		},
+		{	"name": "Pistol, energy",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 3,
+			"value": 7500,
+			"weaponCategory": "simple",
+			"property": [
+				"AM",
+				"RL"
+			],
+			"range": "60/180",
+			"dmg1": "1d6",
+			"dmgType": "R",
+			"reload": 10,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item energy cell|prm}"
+		},
+		{	"name": "Pistol, machine",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 3,
+			"value": 4000,
+			"weaponCategory": "simple",
+			"property": [
+				"AM",
+				"AU",
+				"L",
+				"RL"
+			],
+			"range": "40/120",
+			"dmg1": "1d4",
+			"dmg2": "1d6",
+			"dmgType": "P",
+			"reload": 20,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, low-caliber|prm}"
+		},
+		{	"name": "Pistol, medium-caliber",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 3,
+			"value": 3000,
+			"weaponCategory": "simple",
+			"property": [
+				"AM",
+				"RL"
+			],
+			"range": "50/150",
+			"dmg1": "1d6",
+			"dmgType": "P",
+			"reload": 8,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, medium-caliber|prm}"
+		},
+		{	"name": "Pistol, revolver",
+			"source": "PRM",
+			"currencyConversion": "UniversalCredits",
+			"page": 0,
+			"type": "R",
+			"rarity": "none",
+			"weight": 3,
+			"value": 5000,
+			"weaponCategory": "simple",
+			"property": [
+				"AM",
+				"FD"
+			],
+			"range": "60/240",
+			"dmg1": "1d8",
+			"dmgType": "P",
+			"reload": 6,
+			"firearm": true,
+			"weapon": true,
+			"ammoType": "{@item bullet, medium-caliber|prm}"
+		},
 		{	"name": "Pistol, shot",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
@@ -933,7 +1022,7 @@
 			"weight": 0.05,
 			"value": 10
 		},
-		{	"name": "Bullet, Low-calibre",
+		{	"name": "Bullet, Low-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -942,7 +1031,7 @@
 			"weight": 0.1,
 			"value": 5
 		},
-		{	"name": "Bullet, Medium-calibre",
+		{	"name": "Bullet, Medium-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
