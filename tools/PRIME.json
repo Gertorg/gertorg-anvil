@@ -2752,7 +2752,7 @@
 							]
 						}
 					],
-					"source": "XGE",
+					"source": "PRM",
 					"page": 0
 				}
 			]
@@ -2836,7 +2836,7 @@
 		},
 		{
 			"name": "Survival Instincts",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -2850,14 +2850,14 @@
 		},
 		{
 			"name": "Primal Knowledge",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 3rd-level berserker {@variantrule optional class features|tce|optional feature}}",
+				"{@i 3rd-level berserker {@variantrule optional class features|PRM|optional feature}}",
 				"When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to berserkers at 1st level."
 			]
 		},
@@ -2888,7 +2888,7 @@
 		},
 		{
 			"name": "Proficiency Versatility",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -2926,7 +2926,7 @@
 		},
 		{
 			"name": "Instinctive Pounce",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -2964,14 +2964,14 @@
 		},
 		{
 			"name": "Instinctive Pounce",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 7,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 7th-level berserker {@variantrule optional class features|tce|optional feature}}",
+				"{@i 7th-level berserker {@variantrule optional class features|PRM|optional feature}}",
 				"As part of the bonus action you take to enter your rage, you can move up to half your speed."
 			]
 		},
@@ -2990,7 +2990,7 @@
 		},
 		{
 			"name": "Proficiency Versatility",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3055,7 +3055,7 @@
 		},
 		{
 			"name": "Proficiency Versatility",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3119,7 +3119,7 @@
 		},
 		{
 			"name": "Proficiency Versatility",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3170,7 +3170,7 @@
 		},
 		{
 			"name": "Proficiency Versatility",
-			"source": "UAClassFeatureVariants",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3565,7 +3565,7 @@
 		},
 		{
 			"name": "Path of the Battlerager",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3586,7 +3586,7 @@
 		},
 		{
 			"name": "Battlerager Armor",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3602,7 +3602,7 @@
 		},
 		{
 			"name": "Restriction\u2014Dwarves Only",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3617,7 +3617,7 @@
 		},
 		{
 			"name": "Reckless Abandon",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3631,7 +3631,7 @@
 		},
 		{
 			"name": "Battlerager Charge",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3645,7 +3645,7 @@
 		},
 		{
 			"name": "Spiked Retribution",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3659,7 +3659,7 @@
 		},
 		{
 			"name": "Path of the Beast",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3701,13 +3701,13 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Form of the Beast|Berserker||Beast|TCE|3"
+					"subclassFeature": "Form of the Beast|Berserker||Beast|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Form of the Beast",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3744,7 +3744,7 @@
 		},
 		{
 			"name": "Bestial Soul",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3768,7 +3768,7 @@
 		},
 		{
 			"name": "Infectious Fury",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3791,7 +3791,7 @@
 		},
 		{
 			"name": "Call the Hunt",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3808,7 +3808,7 @@
 		},
 		{
 			"name": "Path of Wild Magic",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3819,17 +3819,17 @@
 				"Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, berserkers are especially susceptible to these wild influences, with some berserkers being transformed by the magic. These magic-suffused berserkers walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi berserkers often seek this path, eager to manifest the otherworldly magic of their ancestors.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Magic Awareness|Berserker||Wild Magic|TCE|3"
+					"subclassFeature": "Magic Awareness|Berserker||Wild Magic|PRM|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wild Surge|Berserker||Wild Magic|TCE|3"
+					"subclassFeature": "Wild Surge|Berserker||Wild Magic|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Magic Awareness",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3845,7 +3845,7 @@
 		},
 		{
 			"name": "Wild Surge",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3910,7 +3910,7 @@
 		},
 		{
 			"name": "Bolstering Magic",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3933,7 +3933,7 @@
 		},
 		{
 			"name": "Unstable Backlash",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -3948,7 +3948,7 @@
 		},
 		{
 			"name": "Controlled Surge",
-			"source": "TCE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4005,7 +4005,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Form of the Beast|Berserker||Beast (UA)|UA2020SubclassesPt1|3"
+					"subclassFeature": "Form of the Beast|Berserker||Beast (UA)|PRM|3"
 				}
 			]
 		},
@@ -4169,11 +4169,11 @@
 				"During their rage, a berserker may take after a legendary storm giant, hair turning white and eyes crackling with lightning. Others adopt the monstrous features of apocalyptic titans, rending the world around them so that it may be made anew.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Giant Power|Berserker||Giant (UA)|UA2022GiantOptions|3"
+					"subclassFeature": "Giant Power|Berserker||Giant (UA)|PRM|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Giant's Havoc|Berserker||Giant (UA)|UA2022GiantOptions|3"
+					"subclassFeature": "Giant's Havoc|Berserker||Giant (UA)|PRM|3"
 				}
 			]
 		},
@@ -4228,7 +4228,7 @@
 		},
 		{
 			"name": "Path of the Wild Soul",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4240,17 +4240,17 @@
 				"When a berserker who follows this path rages, it is a bellowing roar for freedom, an explosion of expression, manifesting in unpredictable ways.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Lingering Magic|Berserker||Wild Soul (UA)|UABerserkerAndMonk|3"
+					"subclassFeature": "Lingering Magic|Berserker||Wild Soul (UA)|PRM|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wild Surge|Berserker||Wild Soul (UA)|UABerserkerAndMonk|3"
+					"subclassFeature": "Wild Surge|Berserker||Wild Soul (UA)|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Lingering Magic",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4265,7 +4265,7 @@
 		},
 		{
 			"name": "Wild Surge",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4326,7 +4326,7 @@
 		},
 		{
 			"name": "Magic Reserves",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4342,7 +4342,7 @@
 		},
 		{
 			"name": "Arcane Rebuke",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4356,7 +4356,7 @@
 		},
 		{
 			"name": "Chaotic Fury",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4370,7 +4370,7 @@
 		},
 		{
 			"name": "Improved Magic Reserves",
-			"source": "UABerserkerAndMonk",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4384,7 +4384,7 @@
 		},
 		{
 			"name": "Path of the Ancestral Guardian",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4397,13 +4397,13 @@
 				"In order to cement ties to their ancestral guardians, berserkers who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian (UA)|UABerserkerPrimalPaths|3"
+					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian (UA)|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Ancestral Protectors",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4417,7 +4417,7 @@
 		},
 		{
 			"name": "Ancestral Shield",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4431,7 +4431,7 @@
 		},
 		{
 			"name": "Consult the Spirits",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4445,7 +4445,7 @@
 		},
 		{
 			"name": "Vengeful Ancestors",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4459,7 +4459,7 @@
 		},
 		{
 			"name": "Path of the Storm Herald",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4471,13 +4471,13 @@
 				"Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Storm of Fury|Berserker||Storm Herald (UA)|UABerserkerPrimalPaths|3"
+					"subclassFeature": "Storm of Fury|Berserker||Storm Herald (UA)|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Storm of Fury",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4512,7 +4512,7 @@
 		},
 		{
 			"name": "Storm Soul",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4547,7 +4547,7 @@
 		},
 		{
 			"name": "Shield of the Storm",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4561,7 +4561,7 @@
 		},
 		{
 			"name": "Raging Storm",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4596,7 +4596,7 @@
 		},
 		{
 			"name": "Path of the Zealot",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4608,17 +4608,17 @@
 				"A variety of gods across the worlds of D&D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Fury|Berserker||Zealot (UA)|UABerserkerPrimalPaths|3"
+					"subclassFeature": "Divine Fury|Berserker||Zealot (UA)|PRM|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warrior of the Gods|Berserker||Zealot (UA)|UABerserkerPrimalPaths|3"
+					"subclassFeature": "Warrior of the Gods|Berserker||Zealot (UA)|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Divine Fury",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4632,7 +4632,7 @@
 		},
 		{
 			"name": "Warrior of the Gods",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4646,7 +4646,7 @@
 		},
 		{
 			"name": "Zealous Focus",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4660,7 +4660,7 @@
 		},
 		{
 			"name": "Zealous Presence",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4675,7 +4675,7 @@
 		},
 		{
 			"name": "Rage Beyond Death",
-			"source": "UABerserkerPrimalPaths",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4690,7 +4690,7 @@
 		},
 		{
 			"name": "Path of the Ancestral Guardian v2",
-			"source": "UARevisedSubclasses",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4703,13 +4703,13 @@
 				"In order to cement ties to their ancestral guardians, berserkers who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian v2 (UA)|UARevisedSubclasses|3"
+					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian v2 (UA)|PRM|3"
 				}
 			]
 		},
 		{
 			"name": "Ancestral Protectors",
-			"source": "UARevisedSubclasses",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4723,7 +4723,7 @@
 		},
 		{
 			"name": "Ancestral Shield",
-			"source": "UARevisedSubclasses",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4737,7 +4737,7 @@
 		},
 		{
 			"name": "Consult the Spirits",
-			"source": "UARevisedSubclasses",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4751,7 +4751,7 @@
 		},
 		{
 			"name": "Vengeful Ancestors",
-			"source": "UARevisedSubclasses",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4765,7 +4765,7 @@
 		},
 		{
 			"name": "Path of the Ancestral Guardian",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4783,7 +4783,7 @@
 		},
 		{
 			"name": "Ancestral Protectors",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4797,7 +4797,7 @@
 		},
 		{
 			"name": "Spirit Shield",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4812,7 +4812,7 @@
 		},
 		{
 			"name": "Consult the Spirits",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4827,7 +4827,7 @@
 		},
 		{
 			"name": "Vengeful Ancestors",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4841,7 +4841,7 @@
 		},
 		{
 			"name": "Path of the Storm Herald",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4859,7 +4859,7 @@
 		},
 		{
 			"name": "Storm Aura",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4892,7 +4892,7 @@
 		},
 		{
 			"name": "Storm Soul",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4923,7 +4923,7 @@
 		},
 		{
 			"name": "Shielding Storm",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4937,7 +4937,7 @@
 		},
 		{
 			"name": "Raging Storm",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4968,7 +4968,7 @@
 		},
 		{
 			"name": "Path of the Zealot",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -4990,7 +4990,7 @@
 		},
 		{
 			"name": "Divine Fury",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -5004,7 +5004,7 @@
 		},
 		{
 			"name": "Warrior of the Gods",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -5018,7 +5018,7 @@
 		},
 		{
 			"name": "Fanatical Focus",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -5032,7 +5032,7 @@
 		},
 		{
 			"name": "Zealous Presence",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -5047,7 +5047,7 @@
 		},
 		{
 			"name": "Rage beyond Death",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
@@ -5062,7 +5062,7 @@
 		},
 		{
 			"name": "Elk",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "SCAG",
@@ -5075,7 +5075,7 @@
 		},
 		{
 			"name": "Tiger",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "SCAG",
@@ -5088,7 +5088,7 @@
 		},
 		{
 			"name": "Elk",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "SCAG",
@@ -5101,7 +5101,7 @@
 		},
 		{
 			"name": "Tiger",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "SCAG",
@@ -5114,7 +5114,7 @@
 		},
 		{
 			"name": "Elk",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "SCAG",
@@ -5127,7 +5127,7 @@
 		},
 		{
 			"name": "Tiger",
-			"source": "SCAG",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "SCAG",
@@ -5140,7 +5140,7 @@
 		},
 		{
 			"name": "Desert",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5153,7 +5153,7 @@
 		},
 		{
 			"name": "Sea",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5166,7 +5166,7 @@
 		},
 		{
 			"name": "Tundra",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5179,7 +5179,7 @@
 		},
 		{
 			"name": "Desert",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5192,7 +5192,7 @@
 		},
 		{
 			"name": "Sea",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5205,7 +5205,7 @@
 		},
 		{
 			"name": "Tundra",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5218,7 +5218,7 @@
 		},
 		{
 			"name": "Desert",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5231,7 +5231,7 @@
 		},
 		{
 			"name": "Sea",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
@@ -5244,7 +5244,7 @@
 		},
 		{
 			"name": "Tundra",
-			"source": "XGE",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "XGE",
