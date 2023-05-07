@@ -2420,26 +2420,26 @@
 				"Rage|Berserker||1",
 				"Unarmored Defense|Berserker||1",
 				"Danger Sense|Berserker||2",
-				"Survival Instincts|Berserker||2|UAClassFeatureVariants",
+				"Survival Instincts|Berserker||2|PRM",
 				"Reckless Attack|Berserker||2",
 				{
 					"classFeature": "Primal Path|Berserker||3",
 					"gainSubclassFeature": true
 				},
-				"Primal Knowledge|Berserker||3|TCE",
+				"Primal Knowledge|Berserker||3|PRM",
 				"Ability Score Improvement|Berserker||4",
-				"Proficiency Versatility|Berserker||4|UAClassFeatureVariants",
+				"Proficiency Versatility|Berserker||4|PRM",
 				"Extra Attack|Berserker||5",
 				"Fast Movement|Berserker||5",
-				"Instinctive Pounce|Berserker||5|UAClassFeatureVariants",
+				"Instinctive Pounce|Berserker||5|PRM",
 				{
 					"classFeature": "Path Feature|Berserker||6",
 					"gainSubclassFeature": true
 				},
 				"Feral Instinct|Berserker||7",
-				"Instinctive Pounce|Berserker||7|TCE",
+				"Instinctive Pounce|Berserker||7|PRM",
 				"Ability Score Improvement|Berserker||8",
-				"Proficiency Versatility|Berserker||8|UAClassFeatureVariants",
+				"Proficiency Versatility|Berserker||8|PRM",
 				"Brutal Critical (1 die)|Berserker||9",
 				{
 					"classFeature": "Path feature|Berserker||10",
@@ -2447,7 +2447,7 @@
 				},
 				"Relentless Rage|Berserker||11",
 				"Ability Score Improvement|Berserker||12",
-				"Proficiency Versatility|Berserker||12|UAClassFeatureVariants",
+				"Proficiency Versatility|Berserker||12|PRM",
 				"Brutal Critical (2 dice)|Berserker||13",
 				{
 					"classFeature": "Path feature|Berserker||14",
@@ -2455,11 +2455,11 @@
 				},
 				"Persistent Rage|Berserker||15",
 				"Ability Score Improvement|Berserker||16",
-				"Proficiency Versatility|Berserker||16|UAClassFeatureVariants",
+				"Proficiency Versatility|Berserker||16|PRM",
 				"Brutal Critical (3 dice)|Berserker||17",
 				"Indomitable Might|Berserker||18",
 				"Ability Score Improvement|Berserker||19",
-				"Proficiency Versatility|Berserker||19|UAClassFeatureVariants",
+				"Proficiency Versatility|Berserker||19|PRM",
 				"Primal Champion|Berserker||20"
 			],
 			"subclassTitle": "Primal Path",
@@ -3570,7 +3570,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
-			"subclassSource": "SCAG",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Known as Kuldjargh (literally \"axe idiot\") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, {@item spiked armor|scag} and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.",
@@ -3591,7 +3591,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
-			"subclassSource": "SCAG",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3607,7 +3607,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
-			"subclassSource": "SCAG",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3622,7 +3622,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
-			"subclassSource": "SCAG",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3636,7 +3636,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
-			"subclassSource": "SCAG",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3650,7 +3650,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
-			"subclassSource": "SCAG",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -3664,7 +3664,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Berserkers who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the berserker.",
@@ -3712,7 +3712,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3749,7 +3749,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3773,7 +3773,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3796,7 +3796,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -3813,7 +3813,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, berserkers are especially susceptible to these wild influences, with some berserkers being transformed by the magic. These magic-suffused berserkers walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi berserkers often seek this path, eager to manifest the otherworldly magic of their ancestors.",
@@ -3834,7 +3834,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3850,7 +3850,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3915,7 +3915,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3938,7 +3938,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3953,7 +3953,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
-			"subclassSource": "TCE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -3963,12 +3963,12 @@
 		},
 		{
 			"name": "Path of the Beast",
-			"source": "UA2020SubclassesPt1",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
-			"subclassSource": "UA2020SubclassesPt1",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Berserkers who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage.",
@@ -4011,12 +4011,12 @@
 		},
 		{
 			"name": "Form of the Beast",
-			"source": "UA2020SubclassesPt1",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
-			"subclassSource": "UA2020SubclassesPt1",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4047,12 +4047,12 @@
 		},
 		{
 			"name": "Bestial Soul",
-			"source": "UA2020SubclassesPt1",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
-			"subclassSource": "UA2020SubclassesPt1",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4071,12 +4071,12 @@
 		},
 		{
 			"name": "Infectious Fury",
-			"source": "UA2020SubclassesPt1",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
-			"subclassSource": "UA2020SubclassesPt1",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4094,12 +4094,12 @@
 		},
 		{
 			"name": "Call the Hunt",
-			"source": "UA2020SubclassesPt1",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
-			"subclassSource": "UA2020SubclassesPt1",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4109,12 +4109,12 @@
 		},
 		{
 			"name": "Giant Power",
-			"source": "UA2022GiantOptions",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
-			"subclassSource": "UA2022GiantOptions",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"{@i 3rd-Level Path of the Giant Feature}",
@@ -4123,12 +4123,12 @@
 		},
 		{
 			"name": "Giant's Havoc",
-			"source": "UA2022GiantOptions",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
-			"subclassSource": "UA2022GiantOptions",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"{@i 3rd-Level Path of the Giant Feature}",
@@ -4157,12 +4157,12 @@
 		},
 		{
 			"name": "Path of the Giant",
-			"source": "UA2022GiantOptions",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
-			"subclassSource": "UA2022GiantOptions",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Berserkers who walk the Path of the Giant draw strength from the primal forces that are the Giants and their elemental ilk. Their rages surge with elemental power and cause these berserkers to grow in size, transforming them into avatars of primordial might.",
@@ -4179,12 +4179,12 @@
 		},
 		{
 			"name": "Elemental Cleaver",
-			"source": "UA2022GiantOptions",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
-			"subclassSource": "UA2022GiantOptions",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4196,12 +4196,12 @@
 		},
 		{
 			"name": "Mighty Impel",
-			"source": "UA2022GiantOptions",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
-			"subclassSource": "UA2022GiantOptions",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4212,12 +4212,12 @@
 		},
 		{
 			"name": "Demiurgic Colossus",
-			"source": "UA2022GiantOptions",
+			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
-			"subclassSource": "UA2022GiantOptions",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4233,7 +4233,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"The realm of the Feywild abounds with beauty, unpredictable emotion, and rampant magic. A berserker exposed to this realm feels emotions powerfully and magic saturates their body.",
@@ -4255,7 +4255,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4270,7 +4270,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4331,7 +4331,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4347,7 +4347,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4361,7 +4361,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4375,7 +4375,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABerserkerAndMonk",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4389,7 +4389,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Some berserkers hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When berserkers who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.",
@@ -4408,7 +4408,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4422,7 +4422,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4436,7 +4436,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4450,7 +4450,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4464,7 +4464,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Typical berserkers harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Berserkers who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a berserker of this path taps into nature to create powerful, magical effects.",
@@ -4482,7 +4482,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4517,7 +4517,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4552,7 +4552,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4566,7 +4566,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4601,7 +4601,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Some deities inspire their followers to pitch themselves into a ferocious battle fury. These berserkers are zealots\u2014warriors who channel their rage into powerful displays of divine power.",
@@ -4623,7 +4623,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4637,7 +4637,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4651,7 +4651,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4665,7 +4665,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4680,7 +4680,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABerserkerPrimalPaths",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4695,7 +4695,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
-			"subclassSource": "UARevisedSubclasses",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Some berserkers hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When berserkers who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.",
@@ -4714,7 +4714,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
-			"subclassSource": "UARevisedSubclasses",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4728,7 +4728,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
-			"subclassSource": "UARevisedSubclasses",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4742,7 +4742,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
-			"subclassSource": "UARevisedSubclasses",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4756,7 +4756,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
-			"subclassSource": "UARevisedSubclasses",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4770,7 +4770,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Some berserkers hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a berserker who follows this path rages, the berserker contacts the spirit world and calls on these guardian spirits for aid.",
@@ -4788,7 +4788,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4802,7 +4802,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4817,7 +4817,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4832,7 +4832,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4846,7 +4846,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"All berserkers harbor a fury within. Their rage grants them superior strength, durability, and speed. Berserkers who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a berserker of this path taps into the forces of nature to create powerful magical effects.",
@@ -4864,7 +4864,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4897,7 +4897,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4928,7 +4928,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4942,7 +4942,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4973,7 +4973,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"Some deities inspire their followers to pitch themselves into a ferocious battle fury. These berserkers are zealots\u2014warriors who channel their rage into powerful displays of divine power.",
@@ -4995,7 +4995,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -5009,7 +5009,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -5023,7 +5023,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -5037,7 +5037,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -5052,7 +5052,7 @@
 			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -5065,7 +5065,7 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "SCAG",
+			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
 			"subclassSource": "PRM",
 			"level": 3,
@@ -5078,7 +5078,7 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "SCAG",
+			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
 			"subclassSource": "PRM",
 			"level": 3,
@@ -5091,7 +5091,7 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "SCAG",
+			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
 			"subclassSource": "PRM",
 			"level": 6,
@@ -5104,7 +5104,7 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "SCAG",
+			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
 			"subclassSource": "PRM",
 			"level": 6,
@@ -5117,7 +5117,7 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "SCAG",
+			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
 			"subclassSource": "PRM",
 			"level": 14,
@@ -5130,7 +5130,7 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "SCAG",
+			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
 			"subclassSource": "PRM",
 			"level": 14,
@@ -5143,9 +5143,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"When this effect is activated, all other creatures in your aura take 2 fire damage each. The damage increases when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level."
@@ -5156,9 +5156,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"When this effect is activated, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw. The target takes {@damage 1d6} lightning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to {@dice 2d6} at 10th level, {@dice 3d6} at 15th level, and {@dice 4d6} at 20th level."
@@ -5169,9 +5169,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"When this effect is activated, each creature of your choice in your aura gains 2 temporary hit points, as icy spirits inure it to suffering. The temporary hit points increase when you reach certain levels in this class, increasing to 3 at 5th level, 4 at 10th level, 5 at 15th level, and 6 at 20th level."
@@ -5182,9 +5182,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain resistance to fire damage, and you don't suffer the effects of extreme heat, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch a flammable object that isn't being worn or carried by anyone else and set it on fire."
@@ -5195,9 +5195,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain resistance to lightning damage, and you can breathe underwater. You also gain a swimming speed of 30 feet."
@@ -5208,9 +5208,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain resistance to cold damage, and you don't suffer the effects of extreme cold, as described in the Dungeon Master's Guide. Moreover, as an action, you can touch water and turn a 5-foot cube of it into ice, which melts after 1 minute. This action fails if a creature is in the cube."
@@ -5221,9 +5221,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your berserker level."
@@ -5234,9 +5234,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"When you hit a creature in your aura with an attack, you can use your reaction to force that creature to make a Strength saving throw. On a failed save, the creature is knocked {@condition prone}, as if struck by a wave."
@@ -5247,9 +5247,9 @@
 			"source": "PRM",
 			"page": 0,
 			"className": "Berserker",
-			"classSource": "XGE",
+			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
-			"subclassSource": "XGE",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"Whenever the effect of your Storm Aura is activated, you can choose one creature you can see in the aura. That creature must succeed on a Strength saving throw, or its speed is reduced to 0 until the start of your next turn, as magical frost covers it."
