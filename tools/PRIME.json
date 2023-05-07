@@ -2173,7 +2173,7 @@
 		}
 	],
 	"class": [
-		{	"name": "Berserker",
+		{	"name": "Bruiser",
 			"source": "PRM",
 			"page": 0,
 			"hd": {
@@ -2415,89 +2415,89 @@
 				}
 			],
 			"classFeatures": [
-				"Rage|Berserker||1",
-				"Unarmored Defense|Berserker||1",
-				"Danger Sense|Berserker||2",
-				"Survival Instincts|Berserker||2|PRM",
-				"Reckless Attack|Berserker||2",
+				"Rage|Bruiser||1",
+				"Unarmored Defense|Bruiser||1",
+				"Danger Sense|Bruiser||2",
+				"Survival Instincts|Bruiser||2|PRM",
+				"Reckless Attack|Bruiser||2",
 				{
-					"classFeature": "Primal Path|Berserker||3",
+					"classFeature": "Primal Path|Bruiser||3",
 					"gainSubclassFeature": true
 				},
-				"Primal Knowledge|Berserker||3|PRM",
-				"Ability Score Improvement|Berserker||4",
-				"Proficiency Versatility|Berserker||4|PRM",
-				"Extra Attack|Berserker||5",
-				"Fast Movement|Berserker||5",
-				"Instinctive Pounce|Berserker||5|PRM",
+				"Primal Knowledge|Bruiser||3|PRM",
+				"Ability Score Improvement|Bruiser||4",
+				"Proficiency Versatility|Bruiser||4|PRM",
+				"Extra Attack|Bruiser||5",
+				"Fast Movement|Bruiser||5",
+				"Instinctive Pounce|Bruiser||5|PRM",
 				{
-					"classFeature": "Path Feature|Berserker||6",
+					"classFeature": "Path Feature|Bruiser||6",
 					"gainSubclassFeature": true
 				},
-				"Feral Instinct|Berserker||7",
-				"Instinctive Pounce|Berserker||7|PRM",
-				"Ability Score Improvement|Berserker||8",
-				"Proficiency Versatility|Berserker||8|PRM",
-				"Brutal Critical (1 die)|Berserker||9",
+				"Feral Instinct|Bruiser||7",
+				"Instinctive Pounce|Bruiser||7|PRM",
+				"Ability Score Improvement|Bruiser||8",
+				"Proficiency Versatility|Bruiser||8|PRM",
+				"Brutal Critical (1 die)|Bruiser||9",
 				{
-					"classFeature": "Path feature|Berserker||10",
+					"classFeature": "Path feature|Bruiser||10",
 					"gainSubclassFeature": true
 				},
-				"Relentless Rage|Berserker||11",
-				"Ability Score Improvement|Berserker||12",
-				"Proficiency Versatility|Berserker||12|PRM",
-				"Brutal Critical (2 dice)|Berserker||13",
+				"Relentless Rage|Bruiser||11",
+				"Ability Score Improvement|Bruiser||12",
+				"Proficiency Versatility|Bruiser||12|PRM",
+				"Brutal Critical (2 dice)|Bruiser||13",
 				{
-					"classFeature": "Path feature|Berserker||14",
+					"classFeature": "Path feature|Bruiser||14",
 					"gainSubclassFeature": true
 				},
-				"Persistent Rage|Berserker||15",
-				"Ability Score Improvement|Berserker||16",
-				"Proficiency Versatility|Berserker||16|PRM",
-				"Brutal Critical (3 dice)|Berserker||17",
-				"Indomitable Might|Berserker||18",
-				"Ability Score Improvement|Berserker||19",
-				"Proficiency Versatility|Berserker||19|PRM",
-				"Primal Champion|Berserker||20"
+				"Persistent Rage|Bruiser||15",
+				"Ability Score Improvement|Bruiser||16",
+				"Proficiency Versatility|Bruiser||16|PRM",
+				"Brutal Critical (3 dice)|Bruiser||17",
+				"Indomitable Might|Bruiser||18",
+				"Ability Score Improvement|Bruiser||19",
+				"Proficiency Versatility|Bruiser||19|PRM",
+				"Primal Champion|Bruiser||20"
 			],
 			"subclassTitle": "Primal Path",
 			"fluff": [
 				{
-					"name": "Berserker",
+					"name": "Bruiser",
 					"type": "section",
 					"entries": [
 						"A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people's elk herd.",
 						"A half-orc snarls at the latest challenger to her authority over their savage tribe, ready to break his neck with her bare hands as she did to the last six rivals.",
 						"Frothing at the mouth, a dwarf slams his helmet into the face of his drow foe, then turns to drive his armored elbow into the gut of another.",
-						"These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.",
-						"For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.",
+						"These bruisers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.",
+						"For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every bruiser, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.",
 						{
 							"type": "entries",
 							"name": "Primal Instinct",
 							"entries": [
-								"People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature\u2014keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.",
-								"Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise."
+								"People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a bruiser, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature\u2014keen instincts, primal physicality, and ferocious rage. Bruisers are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.",
+								"Bruisers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A bruiser can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "A Life of Danger",
 							"entries": [
-								"Not every member of the tribes deemed \"berserkers\" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.",
-								"Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties."
+								"Not every member of the tribes deemed \"bruisers\" by scions of civilized society has the bruiser class. A true bruiser among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Bruisers charge headlong into that danger so that their people don't have to.",
+								"Their courage in the face of danger makes bruisers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a bruiser. Some bruisers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Creating a Berserker",
+							"name": "Creating a Bruiser",
 							"entries": [
-								"When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your berserker. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?",
+								"When creating a bruiser character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your bruiser. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where bruisers are common?",
 								"What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to \"civilized\" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the {@background outlander} background."
+										"You can make a bruiser quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the {@background outlander} background."
 									]
 								}
 							]
@@ -2512,18 +2512,18 @@
 						{
 							"type": "quote",
 							"entries": [
-								"I have witnessed the indomitable performance of berserkers on the field of battle, and it makes me wonder what force lies at the heart of their rage."
+								"I have witnessed the indomitable performance of bruisers on the field of battle, and it makes me wonder what force lies at the heart of their rage."
 							],
 							"by": "Seret, archwizard"
 						},
-						"The anger felt by a normal person resembles the rage of a berserker in the same way that a gentle breeze is akin to a furious thunderstorm. The berserker's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging berserker becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the berserker on despite peril and injury, until the last enemy falls.",
-						"It can be tempting to play a berserker character that is a straightforward application of the classic archetype\u2014a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the berserkers in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your berserker stand out from all others; see the following sections for some ideas.",
+						"The anger felt by a normal person resembles the rage of a bruiser in the same way that a gentle breeze is akin to a furious thunderstorm. The bruiser's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging bruiser becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the bruiser on despite peril and injury, until the last enemy falls.",
+						"It can be tempting to play a bruiser character that is a straightforward application of the classic archetype\u2014a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the bruisers in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your bruiser stand out from all others; see the following sections for some ideas.",
 						{
 							"type": "entries",
 							"name": "Personal Totems",
 							"entries": [
-								"Berserkers tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life\u2014perhaps a remembrance from the berserker's past or a harbinger of what lies ahead.",
-								"A personal totem of this sort might be associated with a berserker's spirit animal, or might actually be the totem object for the animal, but such a connection is not essential. One who has a bear totem spirit, for instance, could still carry an eagle's feather as a personal totem.",
+								"Bruisers tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life\u2014perhaps a remembrance from the bruiser's past or a harbinger of what lies ahead.",
+								"A personal totem of this sort might be associated with a bruiser's spirit animal, or might actually be the totem object for the animal, but such a connection is not essential. One who has a bear totem spirit, for instance, could still carry an eagle's feather as a personal totem.",
 								"Consider creating one or more personal totems for your character\u2014objects that hold a special link to your character's past or future. Think about how a totem might affect your character's actions.",
 								{
 									"type": "table",
@@ -2599,8 +2599,8 @@
 							"type": "entries",
 							"name": "Tattoos",
 							"entries": [
-								"The members of many berserker clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a berserker's tattoos might or might not be related to an animal spirit.",
-								"Each tattoo a berserker displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?",
+								"The members of many bruiser clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a bruiser's tattoos might or might not be related to an animal spirit.",
+								"Each tattoo a bruiser displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?",
 								{
 									"type": "table",
 									"caption": "Tattoos",
@@ -2675,10 +2675,10 @@
 							"type": "entries",
 							"name": "Superstitions",
 							"entries": [
-								"Berserkers vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These berserkers believe that spirits inhabit the plants and animals of the world, and the berserkers look to them for omens and power.",
-								"Other berserkers trust only in the blood that runs in their veins and the steel they hold in their hands. They have no use for the invisible world, instead relying on their senses to hunt and survive like the wild beasts they emulate.",
+								"Bruisers vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These bruisers believe that spirits inhabit the plants and animals of the world, and the bruisers look to them for omens and power.",
+								"Other bruisers trust only in the blood that runs in their veins and the steel they hold in their hands. They have no use for the invisible world, instead relying on their senses to hunt and survive like the wild beasts they emulate.",
 								"Both of these attitudes can give rise to superstitions. These beliefs are often passed down within a family or shared among the members of a clan or a hunting group.",
-								"If your berserker character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?",
+								"If your bruiser character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?",
 								{
 									"type": "table",
 									"caption": "Superstition",
@@ -2760,15 +2760,15 @@
 		{	"name": "Path of the Gunzerker",
 			"shortName": "Gunzerker",
 			"source": "PRM",
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"page": 0,
 			"srd": true,
 			"subclassFeatures": [
-				"Path of the Gunzerker|Berserker||Gunzerker||3",
-				"Mindless Rage|Berserker||Gunzerker||6",
-				"Intimidating Presence|Berserker||Gunzerker||10",
-				"Retaliation|Berserker||Gunzerker||14"
+				"Path of the Gunzerker|Bruiser||Gunzerker||3",
+				"Mindless Rage|Bruiser||Gunzerker||6",
+				"Intimidating Presence|Bruiser||Gunzerker||10",
+				"Retaliation|Bruiser||Gunzerker||14"
 			]
 		}
 	],
@@ -2777,7 +2777,7 @@
 			"name": "Rage",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 1,
 			"entries": [
@@ -2793,7 +2793,7 @@
 				},
 				"If you are able to cast spells, you can't cast them or concentrate on them while raging.",
 				"Your rage lasts for 1 minute. It ends early if you are knocked {@condition unconscious} or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.",
-				"Once you have raged the maximum number of times for your berserker level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th."
+				"Once you have raged the maximum number of times for your bruiser level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th."
 			]
 		},
 		{
@@ -2801,7 +2801,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 1,
 			"entries": [
@@ -2813,7 +2813,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 2,
 			"entries": [
@@ -2825,7 +2825,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 2,
 			"entries": [
@@ -2836,12 +2836,12 @@
 			"name": "Survival Instincts",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 2,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 2nd-level berserker feature (replaces Danger Sense)}",
+				"{@i 2nd-level bruiser feature (replaces Danger Sense)}",
 				"You become proficient in your choice of two of the following skills: {@skill Animal Handling}, {@skill Medicine}, {@skill Nature}, {@skill Perception}, or {@skill Survival}.",
 				"Your proficiency bonus is doubled for any ability check you make that uses either of those skills."
 			]
@@ -2850,13 +2850,13 @@
 			"name": "Primal Knowledge",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 3rd-level berserker {@variantrule optional class features|PRM|optional feature}}",
-				"When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to berserkers at 1st level."
+				"{@i 3rd-level bruiser {@variantrule optional class features|PRM|optional feature}}",
+				"When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to bruisers at 1st level."
 			]
 		},
 		{
@@ -2864,7 +2864,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 3,
 			"entries": [
@@ -2876,7 +2876,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 4,
 			"entries": [
@@ -2888,7 +2888,7 @@
 			"name": "Proficiency Versatility",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -2903,7 +2903,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 5,
 			"entries": [
@@ -2915,7 +2915,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 5,
 			"entries": [
@@ -2926,12 +2926,12 @@
 			"name": "Instinctive Pounce",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 5,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 5th-level berserker feature (replaces Fast Movement)}",
+				"{@i 5th-level bruiser feature (replaces Fast Movement)}",
 				"When a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. This movement doesn't provoke opportunity attacks."
 			]
 		},
@@ -2940,7 +2940,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 6,
 			"entries": [
@@ -2952,7 +2952,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 7,
 			"entries": [
@@ -2964,12 +2964,12 @@
 			"name": "Instinctive Pounce",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 7,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 7th-level berserker {@variantrule optional class features|PRM|optional feature}}",
+				"{@i 7th-level bruiser {@variantrule optional class features|PRM|optional feature}}",
 				"As part of the bonus action you take to enter your rage, you can move up to half your speed."
 			]
 		},
@@ -2978,7 +2978,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 8,
 			"entries": [
@@ -2990,7 +2990,7 @@
 			"name": "Proficiency Versatility",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -3005,7 +3005,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 9,
 			"entries": [
@@ -3018,7 +3018,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 10,
 			"entries": [
@@ -3030,7 +3030,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 11,
 			"entries": [
@@ -3043,7 +3043,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 12,
 			"entries": [
@@ -3055,7 +3055,7 @@
 			"name": "Proficiency Versatility",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 12,
 			"isClassFeatureVariant": true,
@@ -3070,7 +3070,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 13,
 			"entries": [
@@ -3083,7 +3083,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 14,
 			"entries": [
@@ -3095,7 +3095,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 15,
 			"entries": [
@@ -3107,7 +3107,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 16,
 			"entries": [
@@ -3119,7 +3119,7 @@
 			"name": "Proficiency Versatility",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 16,
 			"isClassFeatureVariant": true,
@@ -3134,7 +3134,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 17,
 			"entries": [
@@ -3146,7 +3146,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 18,
 			"entries": [
@@ -3158,7 +3158,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 19,
 			"entries": [
@@ -3170,7 +3170,7 @@
 			"name": "Proficiency Versatility",
 			"source": "PRM",
 			"page": 0,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 19,
 			"isClassFeatureVariant": true,
@@ -3185,7 +3185,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"level": 20,
 			"entries": [
@@ -3199,16 +3199,16 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"subclassShortName": "Gunzerker",
 			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
-				"For some berserkers, rage is a means to an end\u2014that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.",
+				"For some bruisers, rage is a means to an end\u2014that end being violence. The Path of the Bruiser is a path of untrammeled fury, slick with blood. As you enter the bruiser's rage, you thrill in the chaos of battle, heedless of your own health or well-being.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Frenzy|Berserker||Gunzerker||3"
+					"subclassFeature": "Frenzy|Bruiser||Gunzerker||3"
 				}
 			]
 		},
@@ -3217,7 +3217,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"subclassShortName": "Gunzerker",
 			"subclassSource": "PRM",
@@ -3232,7 +3232,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"subclassShortName": "Gunzerker",
 			"subclassSource": "PRM",
@@ -3247,7 +3247,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"subclassShortName": "Gunzerker",
 			"subclassSource": "PRM",
@@ -3263,7 +3263,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Berserker",
+			"className": "Bruiser",
 			"classSource": "PRM",
 			"subclassShortName": "Gunzerker",
 			"subclassSource": "PRM",
