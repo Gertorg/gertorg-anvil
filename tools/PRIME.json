@@ -2173,7 +2173,7 @@
 		}
 	],
 	"class": [
-		{	"name": "Barbarian",
+		{	"name": "Berserker",
 			"source": "PRM",
 			"page": 0,
 			"hd": {
@@ -2417,89 +2417,89 @@
 				}
 			],
 			"classFeatures": [
-				"Rage|Barbarian||1",
-				"Unarmored Defense|Barbarian||1",
-				"Danger Sense|Barbarian||2",
-				"Survival Instincts|Barbarian||2|UAClassFeatureVariants",
-				"Reckless Attack|Barbarian||2",
+				"Rage|Berserker||1",
+				"Unarmored Defense|Berserker||1",
+				"Danger Sense|Berserker||2",
+				"Survival Instincts|Berserker||2|UAClassFeatureVariants",
+				"Reckless Attack|Berserker||2",
 				{
-					"classFeature": "Primal Path|Barbarian||3",
+					"classFeature": "Primal Path|Berserker||3",
 					"gainSubclassFeature": true
 				},
-				"Primal Knowledge|Barbarian||3|TCE",
-				"Ability Score Improvement|Barbarian||4",
-				"Proficiency Versatility|Barbarian||4|UAClassFeatureVariants",
-				"Extra Attack|Barbarian||5",
-				"Fast Movement|Barbarian||5",
-				"Instinctive Pounce|Barbarian||5|UAClassFeatureVariants",
+				"Primal Knowledge|Berserker||3|TCE",
+				"Ability Score Improvement|Berserker||4",
+				"Proficiency Versatility|Berserker||4|UAClassFeatureVariants",
+				"Extra Attack|Berserker||5",
+				"Fast Movement|Berserker||5",
+				"Instinctive Pounce|Berserker||5|UAClassFeatureVariants",
 				{
-					"classFeature": "Path Feature|Barbarian||6",
+					"classFeature": "Path Feature|Berserker||6",
 					"gainSubclassFeature": true
 				},
-				"Feral Instinct|Barbarian||7",
-				"Instinctive Pounce|Barbarian||7|TCE",
-				"Ability Score Improvement|Barbarian||8",
-				"Proficiency Versatility|Barbarian||8|UAClassFeatureVariants",
-				"Brutal Critical (1 die)|Barbarian||9",
+				"Feral Instinct|Berserker||7",
+				"Instinctive Pounce|Berserker||7|TCE",
+				"Ability Score Improvement|Berserker||8",
+				"Proficiency Versatility|Berserker||8|UAClassFeatureVariants",
+				"Brutal Critical (1 die)|Berserker||9",
 				{
-					"classFeature": "Path feature|Barbarian||10",
+					"classFeature": "Path feature|Berserker||10",
 					"gainSubclassFeature": true
 				},
-				"Relentless Rage|Barbarian||11",
-				"Ability Score Improvement|Barbarian||12",
-				"Proficiency Versatility|Barbarian||12|UAClassFeatureVariants",
-				"Brutal Critical (2 dice)|Barbarian||13",
+				"Relentless Rage|Berserker||11",
+				"Ability Score Improvement|Berserker||12",
+				"Proficiency Versatility|Berserker||12|UAClassFeatureVariants",
+				"Brutal Critical (2 dice)|Berserker||13",
 				{
-					"classFeature": "Path feature|Barbarian||14",
+					"classFeature": "Path feature|Berserker||14",
 					"gainSubclassFeature": true
 				},
-				"Persistent Rage|Barbarian||15",
-				"Ability Score Improvement|Barbarian||16",
-				"Proficiency Versatility|Barbarian||16|UAClassFeatureVariants",
-				"Brutal Critical (3 dice)|Barbarian||17",
-				"Indomitable Might|Barbarian||18",
-				"Ability Score Improvement|Barbarian||19",
-				"Proficiency Versatility|Barbarian||19|UAClassFeatureVariants",
-				"Primal Champion|Barbarian||20"
+				"Persistent Rage|Berserker||15",
+				"Ability Score Improvement|Berserker||16",
+				"Proficiency Versatility|Berserker||16|UAClassFeatureVariants",
+				"Brutal Critical (3 dice)|Berserker||17",
+				"Indomitable Might|Berserker||18",
+				"Ability Score Improvement|Berserker||19",
+				"Proficiency Versatility|Berserker||19|UAClassFeatureVariants",
+				"Primal Champion|Berserker||20"
 			],
 			"subclassTitle": "Primal Path",
 			"fluff": [
 				{
-					"name": "Barbarian",
+					"name": "Berserker",
 					"type": "section",
 					"entries": [
 						"A tall human tribesman strides through a blizzard, draped in fur and hefting his axe. He laughs as he charges toward the frost giant who dared poach his people's elk herd.",
 						"A half-orc snarls at the latest challenger to her authority over their savage tribe, ready to break his neck with her bare hands as she did to the last six rivals.",
 						"Frothing at the mouth, a dwarf slams his helmet into the face of his drow foe, then turns to drive his armored elbow into the gut of another.",
-						"These barbarians, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.",
-						"For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every barbarian, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.",
+						"These berserkers, different as they might be, are defined by their rage: unbridled, unquenchable, and unthinking fury. More than a mere emotion, their anger is the ferocity of a cornered predator, the unrelenting assault of a storm, the churning turmoil of the sea.",
+						"For some, their rage springs from a communion with fierce animal spirits. Others draw from a roiling reservoir of anger at a world full of pain. For every berserker, rage is a power that fuels not just a battle frenzy but also uncanny reflexes, resilience, and feats of strength.",
 						{
 							"type": "entries",
 							"name": "Primal Instinct",
 							"entries": [
-								"People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a barbarian, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature\u2014keen instincts, primal physicality, and ferocious rage. Barbarians are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.",
-								"Barbarians come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A barbarian can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise."
+								"People of towns and cities take pride in how their civilized ways set them apart from animals, as if denying one's own nature was a mark of superiority. To a berserker, though, civilization is no virtue, but a sign of weakness. The strong embrace their animal nature\u2014keen instincts, primal physicality, and ferocious rage. Berserkers are uncomfortable when hedged in by walls and crowds. They thrive in the wilds of their homelands: the tundra, jungle, or grasslands where their tribes live and hunt.",
+								"Berserkers come alive in the chaos of combat. They can enter a berserk state where rage takes over, giving them superhuman strength and resilience. A berserker can draw on this reservoir of fury only a few times without resting, but those few rages are usually sufficient to defeat whatever threats arise."
 							]
 						},
 						{
 							"type": "entries",
 							"name": "A Life of Danger",
 							"entries": [
-								"Not every member of the tribes deemed \"barbarians\" by scions of civilized society has the barbarian class. A true barbarian among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Barbarians charge headlong into that danger so that their people don't have to.",
-								"Their courage in the face of danger makes barbarians perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a barbarian. Some barbarians miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties."
+								"Not every member of the tribes deemed \"berserkers\" by scions of civilized society has the berserker class. A true berserker among these people is as uncommon as a skilled fighter in a town, and he or she plays a similar role as a protector of the people and a leader in times of war. Life in the wild places of the world is fraught with peril: rival tribes, deadly weather, and terrifying monsters. Berserkers charge headlong into that danger so that their people don't have to.",
+								"Their courage in the face of danger makes berserkers perfectly suited for adventuring. Wandering is often a way of life for their native tribes, and the rootless life of the adventurer is little hardship for a berserker. Some berserkers miss the close-knit family structures of the tribe, but eventually find them replaced by the bonds formed among the members of their adventuring parties."
 							]
 						},
 						{
 							"type": "entries",
-							"name": "Creating a Barbarian",
+							"name": "Creating a Berserker",
 							"entries": [
-								"When creating a barbarian character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your barbarian. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where barbarians are common?",
+								"When creating a berserker character, think about where your character comes from and his or her place in the world. Talk with your DM about an appropriate origin for your berserker. Did you come from a distant land, making you a stranger in the area of the campaign? Or is the campaign set in a rough-and-tumble frontier where berserkers are common?",
 								"What led you to take up the adventuring life? Were you lured to settled lands by the promise of riches? Did you join forces with soldiers of those lands to face a shared threat? Did monsters or an invading horde drive you out of your homeland, making you a rootless refugee? Perhaps you were a prisoner of war, brought in chains to \"civilized\" lands and only now able to win your freedom. Or you might have been cast out from your people because of a crime you committed, a taboo you violated, or a coup that removed you from a position of authority.",
 								{
 									"type": "entries",
 									"name": "Quick Build",
 									"entries": [
-										"You can make a barbarian quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the {@background outlander} background."
+										"You can make a berserker quickly by following these suggestions. First, put your highest ability score in Strength, followed by Constitution. Second, choose the {@background outlander} background."
 									]
 								}
 							]
@@ -2514,18 +2514,18 @@
 						{
 							"type": "quote",
 							"entries": [
-								"I have witnessed the indomitable performance of barbarians on the field of battle, and it makes me wonder what force lies at the heart of their rage."
+								"I have witnessed the indomitable performance of berserkers on the field of battle, and it makes me wonder what force lies at the heart of their rage."
 							],
 							"by": "Seret, archwizard"
 						},
-						"The anger felt by a normal person resembles the rage of a barbarian in the same way that a gentle breeze is akin to a furious thunderstorm. The barbarian's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging barbarian becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the barbarian on despite peril and injury, until the last enemy falls.",
-						"It can be tempting to play a barbarian character that is a straightforward application of the classic archetype\u2014a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the barbarians in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your barbarian stand out from all others; see the following sections for some ideas.",
+						"The anger felt by a normal person resembles the rage of a berserker in the same way that a gentle breeze is akin to a furious thunderstorm. The berserker's driving force comes from a place that transcends mere emotion, making its manifestation all the more terrible. Whether the impetus for the fury comes entirely from within or from forging a link with a spirit animal, a raging berserker becomes able to perform supernatural feats of strength and endurance. The outburst is temporary, but while it lasts, it takes over body and mind, driving the berserker on despite peril and injury, until the last enemy falls.",
+						"It can be tempting to play a berserker character that is a straightforward application of the classic archetype\u2014a brute, and usually a dimwitted one at that, who rushes in where others fear to tread. But not all the berserkers in the world are cut from that cloth, so you can certainly put your own spin on things. Either way, consider adding some flourishes to make your berserker stand out from all others; see the following sections for some ideas.",
 						{
 							"type": "entries",
 							"name": "Personal Totems",
 							"entries": [
-								"Barbarians tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life\u2014perhaps a remembrance from the barbarian's past or a harbinger of what lies ahead.",
-								"A personal totem of this sort might be associated with a barbarian's spirit animal, or might actually be the totem object for the animal, but such a connection is not essential. One who has a bear totem spirit, for instance, could still carry an eagle's feather as a personal totem.",
+								"Berserkers tend to travel light, carrying little in the way of personal effects or other unnecessary gear. The few possessions they do carry often include small items that have special significance. A personal totem is significant because it has a mystical origin or is tied to an important moment in the character's life\u2014perhaps a remembrance from the berserker's past or a harbinger of what lies ahead.",
+								"A personal totem of this sort might be associated with a berserker's spirit animal, or might actually be the totem object for the animal, but such a connection is not essential. One who has a bear totem spirit, for instance, could still carry an eagle's feather as a personal totem.",
 								"Consider creating one or more personal totems for your character\u2014objects that hold a special link to your character's past or future. Think about how a totem might affect your character's actions.",
 								{
 									"type": "table",
@@ -2601,8 +2601,8 @@
 							"type": "entries",
 							"name": "Tattoos",
 							"entries": [
-								"The members of many barbarian clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a barbarian's tattoos might or might not be related to an animal spirit.",
-								"Each tattoo a barbarian displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?",
+								"The members of many berserker clans decorate their bodies with tattoos, each of which represents a significant moment in the life of the bearer or the bearer's ancestors, or which symbolizes a feeling or an attitude. As with personal totems, a berserker's tattoos might or might not be related to an animal spirit.",
+								"Each tattoo a berserker displays contributes to that individual's identity. If your character wears tattoos, what do they look like, and what do they represent?",
 								{
 									"type": "table",
 									"caption": "Tattoos",
@@ -2677,10 +2677,10 @@
 							"type": "entries",
 							"name": "Superstitions",
 							"entries": [
-								"Barbarians vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These barbarians believe that spirits inhabit the plants and animals of the world, and the barbarians look to them for omens and power.",
-								"Other barbarians trust only in the blood that runs in their veins and the steel they hold in their hands. They have no use for the invisible world, instead relying on their senses to hunt and survive like the wild beasts they emulate.",
+								"Berserkers vary widely in how they understand life. Some follow gods and look for guidance from those deities in the cycles of nature and the animals they encounter. These berserkers believe that spirits inhabit the plants and animals of the world, and the berserkers look to them for omens and power.",
+								"Other berserkers trust only in the blood that runs in their veins and the steel they hold in their hands. They have no use for the invisible world, instead relying on their senses to hunt and survive like the wild beasts they emulate.",
 								"Both of these attitudes can give rise to superstitions. These beliefs are often passed down within a family or shared among the members of a clan or a hunting group.",
-								"If your barbarian character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?",
+								"If your berserker character has any superstitions, were they ingrained in you by your family, or are they the result of personal experience?",
 								{
 									"type": "table",
 									"caption": "Superstition",
@@ -2762,15 +2762,15 @@
 		{	"name": "Path of the Berserker",
 			"shortName": "Berserker",
 			"source": "PRM",
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"page": 0,
 			"srd": true,
 			"subclassFeatures": [
-				"Path of the Berserker|Barbarian||Berserker||3",
-				"Mindless Rage|Barbarian||Berserker||6",
-				"Intimidating Presence|Barbarian||Berserker||10",
-				"Retaliation|Barbarian||Berserker||14"
+				"Path of the Berserker|Berserker||Berserker||3",
+				"Mindless Rage|Berserker||Berserker||6",
+				"Intimidating Presence|Berserker||Berserker||10",
+				"Retaliation|Berserker||Berserker||14"
 			]
 		}
 	],
@@ -2779,7 +2779,7 @@
 			"name": "Rage",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 1,
 			"entries": [
@@ -2795,7 +2795,7 @@
 				},
 				"If you are able to cast spells, you can't cast them or concentrate on them while raging.",
 				"Your rage lasts for 1 minute. It ends early if you are knocked {@condition unconscious} or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.",
-				"Once you have raged the maximum number of times for your barbarian level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th."
+				"Once you have raged the maximum number of times for your berserker level, you must finish a long rest before you can rage again. You may rage 2 times at 1st level, 3 at 3rd, 4 at 6th, 5 at 12th, and 6 at 17th."
 			]
 		},
 		{
@@ -2803,7 +2803,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 1,
 			"entries": [
@@ -2815,7 +2815,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 2,
 			"entries": [
@@ -2827,7 +2827,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 2,
 			"entries": [
@@ -2838,12 +2838,12 @@
 			"name": "Survival Instincts",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 2,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 2nd-level barbarian feature (replaces Danger Sense)}",
+				"{@i 2nd-level berserker feature (replaces Danger Sense)}",
 				"You become proficient in your choice of two of the following skills: {@skill Animal Handling}, {@skill Medicine}, {@skill Nature}, {@skill Perception}, or {@skill Survival}.",
 				"Your proficiency bonus is doubled for any ability check you make that uses either of those skills."
 			]
@@ -2852,13 +2852,13 @@
 			"name": "Primal Knowledge",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 3,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 3rd-level barbarian {@variantrule optional class features|tce|optional feature}}",
-				"When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to barbarians at 1st level."
+				"{@i 3rd-level berserker {@variantrule optional class features|tce|optional feature}}",
+				"When you reach 3rd level and again at 10th level, you gain proficiency in one skill of your choice from the list of skills available to berserkers at 1st level."
 			]
 		},
 		{
@@ -2866,7 +2866,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 3,
 			"entries": [
@@ -2878,7 +2878,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 4,
 			"entries": [
@@ -2890,7 +2890,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 4,
 			"isClassFeatureVariant": true,
@@ -2905,7 +2905,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 5,
 			"entries": [
@@ -2917,7 +2917,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 5,
 			"entries": [
@@ -2928,12 +2928,12 @@
 			"name": "Instinctive Pounce",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 5,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 5th-level barbarian feature (replaces Fast Movement)}",
+				"{@i 5th-level berserker feature (replaces Fast Movement)}",
 				"When a creature ends its turn within 15 feet of you, you can use your reaction to move up to half your speed to a space closer to the creature. This movement doesn't provoke opportunity attacks."
 			]
 		},
@@ -2942,7 +2942,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 6,
 			"entries": [
@@ -2954,7 +2954,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 7,
 			"entries": [
@@ -2966,12 +2966,12 @@
 			"name": "Instinctive Pounce",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 7,
 			"isClassFeatureVariant": true,
 			"entries": [
-				"{@i 7th-level barbarian {@variantrule optional class features|tce|optional feature}}",
+				"{@i 7th-level berserker {@variantrule optional class features|tce|optional feature}}",
 				"As part of the bonus action you take to enter your rage, you can move up to half your speed."
 			]
 		},
@@ -2980,7 +2980,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 8,
 			"entries": [
@@ -2992,7 +2992,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 8,
 			"isClassFeatureVariant": true,
@@ -3007,7 +3007,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 9,
 			"entries": [
@@ -3020,7 +3020,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 10,
 			"entries": [
@@ -3032,7 +3032,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 11,
 			"entries": [
@@ -3045,7 +3045,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 12,
 			"entries": [
@@ -3057,7 +3057,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 12,
 			"isClassFeatureVariant": true,
@@ -3072,7 +3072,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 13,
 			"entries": [
@@ -3085,7 +3085,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 14,
 			"entries": [
@@ -3097,7 +3097,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 15,
 			"entries": [
@@ -3109,7 +3109,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 16,
 			"entries": [
@@ -3121,7 +3121,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 16,
 			"isClassFeatureVariant": true,
@@ -3136,7 +3136,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 17,
 			"entries": [
@@ -3148,7 +3148,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 18,
 			"entries": [
@@ -3160,7 +3160,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 19,
 			"entries": [
@@ -3172,7 +3172,7 @@
 			"name": "Proficiency Versatility",
 			"source": "UAClassFeatureVariants",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 19,
 			"isClassFeatureVariant": true,
@@ -3187,7 +3187,7 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"level": 20,
 			"entries": [
@@ -3201,16 +3201,16 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Berserker",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
-				"For some barbarians, rage is a means to an end\u2014that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.",
+				"For some berserkers, rage is a means to an end\u2014that end being violence. The Path of the Berserker is a path of untrammeled fury, slick with blood. As you enter the berserker's rage, you thrill in the chaos of battle, heedless of your own health or well-being.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Frenzy|Barbarian||Berserker||3"
+					"subclassFeature": "Frenzy|Berserker||Berserker||3"
 				}
 			]
 		},
@@ -3219,10 +3219,10 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Berserker",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3234,10 +3234,10 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Berserker",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3249,10 +3249,10 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Berserker",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3265,10 +3265,10 @@
 			"source": "PRM",
 			"page": 0,
 			"srd": true,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Berserker",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -3279,10 +3279,10 @@
 			"name": "Bear",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"While raging, you have resistance to all damage except psychic damage. The spirit of the bear makes you tough enough to stand up to any punishment."
@@ -3292,10 +3292,10 @@
 			"name": "Eagle",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"While you're raging and aren't wearing heavy armor, other creatures have disadvantage on opportunity attack rolls against you, and you can use the {@action Dash} action as a bonus action on your turn. The spirit of the eagle makes you into a predator who can weave through the fray with ease."
@@ -3305,21 +3305,21 @@
 			"name": "Path of the Totem Warrior",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
-				"The Path of the Totem Warrior is a spiritual journey, as the barbarian accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your barbarian rage.",
-				"Most barbarian tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.",
+				"The Path of the Totem Warrior is a spiritual journey, as the berserker accepts a spirit animal as guide, protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding magical fuel to your berserker rage.",
+				"Most berserker tribes consider a totem animal to be kin to a particular clan. In such cases, it is unusual for an individual to have more than one totem animal spirit, though exceptions exist.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Spirit Seeker|Barbarian||Totem Warrior||3"
+					"subclassFeature": "Spirit Seeker|Berserker||Totem Warrior||3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Totem Spirit|Barbarian||Totem Warrior||3"
+					"subclassFeature": "Totem Spirit|Berserker||Totem Warrior||3"
 				}
 			]
 		},
@@ -3327,10 +3327,10 @@
 			"name": "Wolf",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"While you're raging, your friends have advantage on melee attack rolls against any creature within 5 feet of you that is hostile to you. The spirit of the wolf makes you a leader of hunters."
@@ -3340,10 +3340,10 @@
 			"name": "Spirit Seeker",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3354,10 +3354,10 @@
 			"name": "Totem Spirit",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -3369,23 +3369,23 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Bear|Barbarian||Totem Warrior||3"
+							"subclassFeature": "Bear|Berserker||Totem Warrior||3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Eagle|Barbarian||Totem Warrior||3"
+							"subclassFeature": "Eagle|Berserker||Totem Warrior||3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Elk|Barbarian|SCAG|Totem Warrior||3|SCAG"
+							"subclassFeature": "Elk|Berserker|SCAG|Totem Warrior||3|SCAG"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Tiger|Barbarian|SCAG|Totem Warrior||3|SCAG"
+							"subclassFeature": "Tiger|Berserker|SCAG|Totem Warrior||3|SCAG"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Wolf|Barbarian||Totem Warrior||3"
+							"subclassFeature": "Wolf|Berserker||Totem Warrior||3"
 						}
 					]
 				}
@@ -3395,10 +3395,10 @@
 			"name": "Bear",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain the might of a bear. Your carrying capacity (including maximum load and maximum lift) is doubled, and you have advantage on Strength checks made to push, pull, lift, or break objects."
@@ -3408,10 +3408,10 @@
 			"name": "Eagle",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able to discern even fine details as though looking at something no more than 100 feet away from you. Additionally, dim light doesn't impose disadvantage on your Wisdom ({@skill Perception}) checks."
@@ -3421,10 +3421,10 @@
 			"name": "Wolf",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain the hunting sensibilities of a wolf. You can track other creatures while traveling at a fast pace, and you can move stealthily while traveling at a normal pace."
@@ -3434,10 +3434,10 @@
 			"name": "Aspect of the Beast",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -3448,23 +3448,23 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Bear|Barbarian||Totem Warrior||6"
+							"subclassFeature": "Bear|Berserker||Totem Warrior||6"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Eagle|Barbarian||Totem Warrior||6"
+							"subclassFeature": "Eagle|Berserker||Totem Warrior||6"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Elk|Barbarian|SCAG|Totem Warrior||6|SCAG"
+							"subclassFeature": "Elk|Berserker|SCAG|Totem Warrior||6|SCAG"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Tiger|Barbarian|SCAG|Totem Warrior||6|SCAG"
+							"subclassFeature": "Tiger|Berserker|SCAG|Totem Warrior||6|SCAG"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Wolf|Barbarian||Totem Warrior||6"
+							"subclassFeature": "Wolf|Berserker||Totem Warrior||6"
 						}
 					]
 				}
@@ -3474,10 +3474,10 @@
 			"name": "Spirit Walker",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -3488,10 +3488,10 @@
 			"name": "Bear",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be {@condition frightened}."
@@ -3501,10 +3501,10 @@
 			"name": "Eagle",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"While raging, you have a flying speed equal to your current walking speed. This benefit works only in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft."
@@ -3514,10 +3514,10 @@
 			"name": "Wolf",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"While you're raging, you can use a bonus action on your turn to knock a Large or smaller creature {@condition prone} when you hit it with melee weapon attack."
@@ -3527,10 +3527,10 @@
 			"name": "Totemic Attunement",
 			"source": "PRM",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -3541,23 +3541,23 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Bear|Barbarian||Totem Warrior||14"
+							"subclassFeature": "Bear|Berserker||Totem Warrior||14"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Eagle|Barbarian||Totem Warrior||14"
+							"subclassFeature": "Eagle|Berserker||Totem Warrior||14"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Elk|Barbarian|SCAG|Totem Warrior||14|SCAG"
+							"subclassFeature": "Elk|Berserker|SCAG|Totem Warrior||14|SCAG"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Tiger|Barbarian|SCAG|Totem Warrior||14|SCAG"
+							"subclassFeature": "Tiger|Berserker|SCAG|Totem Warrior||14|SCAG"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Wolf|Barbarian||Totem Warrior||14"
+							"subclassFeature": "Wolf|Berserker||Totem Warrior||14"
 						}
 					]
 				}
@@ -3567,7 +3567,7 @@
 			"name": "Path of the Battlerager",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
 			"subclassSource": "SCAG",
@@ -3576,11 +3576,11 @@
 				"Known as Kuldjargh (literally \"axe idiot\") in Dwarvish, battleragers are dwarf followers of the gods of war and take the Path of the Battlerager. They specialize in wearing bulky, {@item spiked armor|scag} and throwing themselves into combat, striking with their body itself and giving themselves over to the fury of battle.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Restriction\u2014Dwarves Only|Barbarian||Battlerager|SCAG|3"
+					"subclassFeature": "Restriction\u2014Dwarves Only|Berserker||Battlerager|SCAG|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Battlerager Armor|Barbarian||Battlerager|SCAG|3"
+					"subclassFeature": "Battlerager Armor|Berserker||Battlerager|SCAG|3"
 				}
 			]
 		},
@@ -3588,7 +3588,7 @@
 			"name": "Battlerager Armor",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
 			"subclassSource": "SCAG",
@@ -3604,7 +3604,7 @@
 			"name": "Restriction\u2014Dwarves Only",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
 			"subclassSource": "SCAG",
@@ -3619,7 +3619,7 @@
 			"name": "Reckless Abandon",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
 			"subclassSource": "SCAG",
@@ -3633,7 +3633,7 @@
 			"name": "Battlerager Charge",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
 			"subclassSource": "SCAG",
@@ -3647,7 +3647,7 @@
 			"name": "Spiked Retribution",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Battlerager",
 			"subclassSource": "SCAG",
@@ -3661,14 +3661,14 @@
 			"name": "Path of the Beast",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Barbarians who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the barbarian.",
-				"Such a barbarian might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.",
+				"Berserkers who walk the Path of the Beast draw their rage from a bestial spark burning within their souls. That beast bursts forth in the throes of rage, physically transforming the berserker.",
+				"Such a berserker might be inhabited by a primal spirit or be descended from shape-shifters. You can choose the origin of your feral might or determine it by rolling on the Origin of the Beast table.",
 				{
 					"type": "table",
 					"caption": "Origin of the Beast",
@@ -3701,7 +3701,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Form of the Beast|Barbarian||Beast|TCE|3"
+					"subclassFeature": "Form of the Beast|Berserker||Beast|TCE|3"
 				}
 			]
 		},
@@ -3709,7 +3709,7 @@
 			"name": "Form of the Beast",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
 			"subclassSource": "TCE",
@@ -3746,7 +3746,7 @@
 			"name": "Bestial Soul",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
 			"subclassSource": "TCE",
@@ -3770,7 +3770,7 @@
 			"name": "Infectious Fury",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
 			"subclassSource": "TCE",
@@ -3793,7 +3793,7 @@
 			"name": "Call the Hunt",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast",
 			"subclassSource": "TCE",
@@ -3810,20 +3810,20 @@
 			"name": "Path of Wild Magic",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
 			"subclassSource": "TCE",
 			"level": 3,
 			"entries": [
-				"Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, barbarians are especially susceptible to these wild influences, with some barbarians being transformed by the magic. These magic-suffused barbarians walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi barbarians often seek this path, eager to manifest the otherworldly magic of their ancestors.",
+				"Many places in the multiverse abound with beauty, intense emotion, and rampant magic; the Feywild, the Upper Planes, and other realms of supernatural power radiate with such forces and can profoundly influence people. As folk of deep feeling, berserkers are especially susceptible to these wild influences, with some berserkers being transformed by the magic. These magic-suffused berserkers walk the Path of Wild Magic. Elf, tiefling, aasimar, and genasi berserkers often seek this path, eager to manifest the otherworldly magic of their ancestors.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Magic Awareness|Barbarian||Wild Magic|TCE|3"
+					"subclassFeature": "Magic Awareness|Berserker||Wild Magic|TCE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wild Surge|Barbarian||Wild Magic|TCE|3"
+					"subclassFeature": "Wild Surge|Berserker||Wild Magic|TCE|3"
 				}
 			]
 		},
@@ -3831,7 +3831,7 @@
 			"name": "Magic Awareness",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
 			"subclassSource": "TCE",
@@ -3847,7 +3847,7 @@
 			"name": "Wild Surge",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
 			"subclassSource": "TCE",
@@ -3912,7 +3912,7 @@
 			"name": "Bolstering Magic",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
 			"subclassSource": "TCE",
@@ -3935,7 +3935,7 @@
 			"name": "Unstable Backlash",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
 			"subclassSource": "TCE",
@@ -3950,7 +3950,7 @@
 			"name": "Controlled Surge",
 			"source": "TCE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Magic",
 			"subclassSource": "TCE",
@@ -3965,13 +3965,13 @@
 			"name": "Path of the Beast",
 			"source": "UA2020SubclassesPt1",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
 			"level": 3,
 			"entries": [
-				"Barbarians who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage.",
+				"Berserkers who walk the Path of Beast draw their rage from a bestial spark burning within their souls. That beast howls to be released and bursts forth in the throes of rage.",
 				"Those who tread this path might be inhabited by a primal spirit or descended from shapeshifters. You can choose the origin of your feral might or determine it randomly by rolling on the Origin of the Beast table.",
 				{
 					"type": "table",
@@ -4005,7 +4005,7 @@
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Form of the Beast|Barbarian||Beast (UA)|UA2020SubclassesPt1|3"
+					"subclassFeature": "Form of the Beast|Berserker||Beast (UA)|UA2020SubclassesPt1|3"
 				}
 			]
 		},
@@ -4013,7 +4013,7 @@
 			"name": "Form of the Beast",
 			"source": "UA2020SubclassesPt1",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -4049,7 +4049,7 @@
 			"name": "Bestial Soul",
 			"source": "UA2020SubclassesPt1",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -4073,7 +4073,7 @@
 			"name": "Infectious Fury",
 			"source": "UA2020SubclassesPt1",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -4096,7 +4096,7 @@
 			"name": "Call the Hunt",
 			"source": "UA2020SubclassesPt1",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Beast (UA)",
 			"subclassSource": "UA2020SubclassesPt1",
@@ -4111,7 +4111,7 @@
 			"name": "Giant Power",
 			"source": "UA2022GiantOptions",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
 			"subclassSource": "UA2022GiantOptions",
@@ -4125,7 +4125,7 @@
 			"name": "Giant's Havoc",
 			"source": "UA2022GiantOptions",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
 			"subclassSource": "UA2022GiantOptions",
@@ -4159,21 +4159,21 @@
 			"name": "Path of the Giant",
 			"source": "UA2022GiantOptions",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
 			"subclassSource": "UA2022GiantOptions",
 			"level": 3,
 			"entries": [
-				"Barbarians who walk the Path of the Giant draw strength from the primal forces that are the Giants and their elemental ilk. Their rages surge with elemental power and cause these barbarians to grow in size, transforming them into avatars of primordial might.",
-				"During their rage, a barbarian may take after a legendary storm giant, hair turning white and eyes crackling with lightning. Others adopt the monstrous features of apocalyptic titans, rending the world around them so that it may be made anew.",
+				"Berserkers who walk the Path of the Giant draw strength from the primal forces that are the Giants and their elemental ilk. Their rages surge with elemental power and cause these berserkers to grow in size, transforming them into avatars of primordial might.",
+				"During their rage, a berserker may take after a legendary storm giant, hair turning white and eyes crackling with lightning. Others adopt the monstrous features of apocalyptic titans, rending the world around them so that it may be made anew.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Giant Power|Barbarian||Giant (UA)|UA2022GiantOptions|3"
+					"subclassFeature": "Giant Power|Berserker||Giant (UA)|UA2022GiantOptions|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Giant's Havoc|Barbarian||Giant (UA)|UA2022GiantOptions|3"
+					"subclassFeature": "Giant's Havoc|Berserker||Giant (UA)|UA2022GiantOptions|3"
 				}
 			]
 		},
@@ -4181,7 +4181,7 @@
 			"name": "Elemental Cleaver",
 			"source": "UA2022GiantOptions",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
 			"subclassSource": "UA2022GiantOptions",
@@ -4198,7 +4198,7 @@
 			"name": "Mighty Impel",
 			"source": "UA2022GiantOptions",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
 			"subclassSource": "UA2022GiantOptions",
@@ -4214,7 +4214,7 @@
 			"name": "Demiurgic Colossus",
 			"source": "UA2022GiantOptions",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Giant (UA)",
 			"subclassSource": "UA2022GiantOptions",
@@ -4228,34 +4228,34 @@
 		},
 		{
 			"name": "Path of the Wild Soul",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 3,
 			"entries": [
-				"The realm of the Feywild abounds with beauty, unpredictable emotion, and rampant magic. A barbarian exposed to this realm feels emotions powerfully and magic saturates their body.",
-				"When a barbarian who follows this path rages, it is a bellowing roar for freedom, an explosion of expression, manifesting in unpredictable ways.",
+				"The realm of the Feywild abounds with beauty, unpredictable emotion, and rampant magic. A berserker exposed to this realm feels emotions powerfully and magic saturates their body.",
+				"When a berserker who follows this path rages, it is a bellowing roar for freedom, an explosion of expression, manifesting in unpredictable ways.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Lingering Magic|Barbarian||Wild Soul (UA)|UABarbarianAndMonk|3"
+					"subclassFeature": "Lingering Magic|Berserker||Wild Soul (UA)|UABerserkerAndMonk|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Wild Surge|Barbarian||Wild Soul (UA)|UABarbarianAndMonk|3"
+					"subclassFeature": "Wild Surge|Berserker||Wild Soul (UA)|UABerserkerAndMonk|3"
 				}
 			]
 		},
 		{
 			"name": "Lingering Magic",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4265,12 +4265,12 @@
 		},
 		{
 			"name": "Wild Surge",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4326,12 +4326,12 @@
 		},
 		{
 			"name": "Magic Reserves",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4342,12 +4342,12 @@
 		},
 		{
 			"name": "Arcane Rebuke",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4356,12 +4356,12 @@
 		},
 		{
 			"name": "Chaotic Fury",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4370,12 +4370,12 @@
 		},
 		{
 			"name": "Improved Magic Reserves",
-			"source": "UABarbarianAndMonk",
+			"source": "UABerserkerAndMonk",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Wild Soul (UA)",
-			"subclassSource": "UABarbarianAndMonk",
+			"subclassSource": "UABerserkerAndMonk",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4384,31 +4384,31 @@
 		},
 		{
 			"name": "Path of the Ancestral Guardian",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"entries": [
-				"Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When barbarians who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.",
-				"Barbarians who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits' help, they can hinder their foes even as they strike powerful blows against them.",
-				"In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.",
+				"Some berserkers hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When berserkers who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.",
+				"Berserkers who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits' help, they can hinder their foes even as they strike powerful blows against them.",
+				"In order to cement ties to their ancestral guardians, berserkers who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ancestral Protectors|Barbarian||Ancestral Guardian (UA)|UABarbarianPrimalPaths|3"
+					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian (UA)|UABerserkerPrimalPaths|3"
 				}
 			]
 		},
 		{
 			"name": "Ancestral Protectors",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4417,12 +4417,12 @@
 		},
 		{
 			"name": "Ancestral Shield",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4431,12 +4431,12 @@
 		},
 		{
 			"name": "Consult the Spirits",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4445,12 +4445,12 @@
 		},
 		{
 			"name": "Vengeful Ancestors",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4459,30 +4459,30 @@
 		},
 		{
 			"name": "Path of the Storm Herald",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"entries": [
-				"Typical barbarians harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a barbarian of this path taps into nature to create powerful, magical effects.",
+				"Typical berserkers harbor a fury that dwells within. Their rage grants them superior strength, durability, and speed. Berserkers who follow the Path of the Storm Herald learn instead to transform their rage into a mantle of primal magic that swirls around them. When in a fury, a berserker of this path taps into nature to create powerful, magical effects.",
 				"Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect the natural realm. Other storm heralds hone their craft in elite lodges founded in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Storm of Fury|Barbarian||Storm Herald (UA)|UABarbarianPrimalPaths|3"
+					"subclassFeature": "Storm of Fury|Berserker||Storm Herald (UA)|UABerserkerPrimalPaths|3"
 				}
 			]
 		},
 		{
 			"name": "Storm of Fury",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4491,7 +4491,7 @@
 					"type": "entries",
 					"name": "Desert",
 					"entries": [
-						"Any enemy that ends its turn in your aura takes fire damage equal to 2 + your barbarian level divided by 4."
+						"Any enemy that ends its turn in your aura takes fire damage equal to 2 + your berserker level divided by 4."
 					]
 				},
 				{
@@ -4505,19 +4505,19 @@
 					"type": "entries",
 					"name": "Tundra",
 					"entries": [
-						"Any enemy that ends its turn in your aura takes cold damage equal to 2 + your barbarian level divided by 4."
+						"Any enemy that ends its turn in your aura takes cold damage equal to 2 + your berserker level divided by 4."
 					]
 				}
 			]
 		},
 		{
 			"name": "Storm Soul",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4547,12 +4547,12 @@
 		},
 		{
 			"name": "Shield of the Storm",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4561,12 +4561,12 @@
 		},
 		{
 			"name": "Raging Storm",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4596,48 +4596,48 @@
 		},
 		{
 			"name": "Path of the Zealot",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"entries": [
-				"Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots\u2014warriors who channel their rage into powerful displays of divine power.",
+				"Some deities inspire their followers to pitch themselves into a ferocious battle fury. These berserkers are zealots\u2014warriors who channel their rage into powerful displays of divine power.",
 				"A variety of gods across the worlds of D&D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Fury|Barbarian||Zealot (UA)|UABarbarianPrimalPaths|3"
+					"subclassFeature": "Divine Fury|Berserker||Zealot (UA)|UABerserkerPrimalPaths|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warrior of the Gods|Barbarian||Zealot (UA)|UABarbarianPrimalPaths|3"
+					"subclassFeature": "Warrior of the Gods|Berserker||Zealot (UA)|UABerserkerPrimalPaths|3"
 				}
 			]
 		},
 		{
 			"name": "Divine Fury",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting when you choose this path at 3rd level, you can channel divine fury when you start to rage. If you do so, you become cloaked in an aura of divine power until the rage ends. At the end of each of your turns for that duration, each creature within 5 feet of you takes damage equal to {@dice 1d6} + half your barbarian level. The damage is necrotic or radiant; you choose the type of damage when you gain this feature."
+				"Starting when you choose this path at 3rd level, you can channel divine fury when you start to rage. If you do so, you become cloaked in an aura of divine power until the rage ends. At the end of each of your turns for that duration, each creature within 5 feet of you takes damage equal to {@dice 1d6} + half your berserker level. The damage is necrotic or radiant; you choose the type of damage when you gain this feature."
 			]
 		},
 		{
 			"name": "Warrior of the Gods",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 3,
 			"header": 1,
 			"entries": [
@@ -4646,12 +4646,12 @@
 		},
 		{
 			"name": "Zealous Focus",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 6,
 			"header": 2,
 			"entries": [
@@ -4660,12 +4660,12 @@
 		},
 		{
 			"name": "Zealous Presence",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 10,
 			"header": 2,
 			"entries": [
@@ -4675,12 +4675,12 @@
 		},
 		{
 			"name": "Rage Beyond Death",
-			"source": "UABarbarianPrimalPaths",
+			"source": "UABerserkerPrimalPaths",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot (UA)",
-			"subclassSource": "UABarbarianPrimalPaths",
+			"subclassSource": "UABerserkerPrimalPaths",
 			"level": 14,
 			"header": 2,
 			"entries": [
@@ -4692,18 +4692,18 @@
 			"name": "Path of the Ancestral Guardian v2",
 			"source": "UARevisedSubclasses",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
 			"level": 3,
 			"entries": [
-				"Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When barbarians who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.",
-				"Barbarians who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits' help, they can hinder their foes even as they strike powerful blows against them.",
-				"In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.",
+				"Some berserkers hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger on in the world as mighty spirits who can guide and protect the living. When berserkers who follow this path rage, they cross the barrier into the spirit world and call on these guardian spirits for aid.",
+				"Berserkers who draw on their ancestral guardians fight to protect their tribes and their allies. With the spirits' help, they can hinder their foes even as they strike powerful blows against them.",
+				"In order to cement ties to their ancestral guardians, berserkers who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell epic sagas of victories against terrible monsters and other fearsome rivals.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ancestral Protectors|Barbarian||Ancestral Guardian v2 (UA)|UARevisedSubclasses|3"
+					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian v2 (UA)|UARevisedSubclasses|3"
 				}
 			]
 		},
@@ -4711,7 +4711,7 @@
 			"name": "Ancestral Protectors",
 			"source": "UARevisedSubclasses",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -4725,7 +4725,7 @@
 			"name": "Ancestral Shield",
 			"source": "UARevisedSubclasses",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -4739,7 +4739,7 @@
 			"name": "Consult the Spirits",
 			"source": "UARevisedSubclasses",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -4753,7 +4753,7 @@
 			"name": "Vengeful Ancestors",
 			"source": "UARevisedSubclasses",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian v2 (UA)",
 			"subclassSource": "UARevisedSubclasses",
@@ -4767,17 +4767,17 @@
 			"name": "Path of the Ancestral Guardian",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Some barbarians hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a barbarian who follows this path rages, the barbarian contacts the spirit world and calls on these guardian spirits for aid.",
-				"Barbarians who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, barbarians who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.",
+				"Some berserkers hail from cultures that revere their ancestors. These tribes teach that the warriors of the past linger in the world as mighty spirits, who can guide and protect the living. When a berserker who follows this path rages, the berserker contacts the spirit world and calls on these guardian spirits for aid.",
+				"Berserkers who draw on their ancestral guardians can better fight to protect their tribes and their allies. In order to cement ties to their ancestral guardians, berserkers who follow this path cover themselves in elaborate tattoos that celebrate their ancestors' deeds. These tattoos tell sagas of victories against terrible monsters and other fearsome rivals.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Ancestral Protectors|Barbarian||Ancestral Guardian|XGE|3"
+					"subclassFeature": "Ancestral Protectors|Berserker||Ancestral Guardian|XGE|3"
 				}
 			]
 		},
@@ -4785,7 +4785,7 @@
 			"name": "Ancestral Protectors",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
 			"subclassSource": "XGE",
@@ -4799,7 +4799,7 @@
 			"name": "Spirit Shield",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
 			"subclassSource": "XGE",
@@ -4814,7 +4814,7 @@
 			"name": "Consult the Spirits",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
 			"subclassSource": "XGE",
@@ -4829,7 +4829,7 @@
 			"name": "Vengeful Ancestors",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Ancestral Guardian",
 			"subclassSource": "XGE",
@@ -4843,17 +4843,17 @@
 			"name": "Path of the Storm Herald",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"All barbarians harbor a fury within. Their rage grants them superior strength, durability, and speed. Barbarians who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a barbarian of this path taps into the forces of nature to create powerful magical effects.",
+				"All berserkers harbor a fury within. Their rage grants them superior strength, durability, and speed. Berserkers who follow the Path of the Storm Herald learn to transform that rage into a mantle of primal magic, which swirls around them. When in a fury, a berserker of this path taps into the forces of nature to create powerful magical effects.",
 				"Storm heralds are typically elite champions who train alongside druids, rangers, and others sworn to protect nature. Other storm heralds hone their craft in lodges in regions wracked by storms, in the frozen reaches at the world's end, or deep in the hottest deserts.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Storm Aura|Barbarian||Storm Herald|XGE|3"
+					"subclassFeature": "Storm Aura|Berserker||Storm Herald|XGE|3"
 				}
 			]
 		},
@@ -4861,7 +4861,7 @@
 			"name": "Storm Aura",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -4876,15 +4876,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Desert|Barbarian|XGE|Storm Herald|XGE|3"
+							"subclassFeature": "Desert|Berserker|XGE|Storm Herald|XGE|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Sea|Barbarian|XGE|Storm Herald|XGE|3"
+							"subclassFeature": "Sea|Berserker|XGE|Storm Herald|XGE|3"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Tundra|Barbarian|XGE|Storm Herald|XGE|3"
+							"subclassFeature": "Tundra|Berserker|XGE|Storm Herald|XGE|3"
 						}
 					]
 				}
@@ -4894,7 +4894,7 @@
 			"name": "Storm Soul",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -4907,15 +4907,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Desert|Barbarian|XGE|Storm Herald|XGE|6"
+							"subclassFeature": "Desert|Berserker|XGE|Storm Herald|XGE|6"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Sea|Barbarian|XGE|Storm Herald|XGE|6"
+							"subclassFeature": "Sea|Berserker|XGE|Storm Herald|XGE|6"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Tundra|Barbarian|XGE|Storm Herald|XGE|6"
+							"subclassFeature": "Tundra|Berserker|XGE|Storm Herald|XGE|6"
 						}
 					]
 				}
@@ -4925,7 +4925,7 @@
 			"name": "Shielding Storm",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -4939,7 +4939,7 @@
 			"name": "Raging Storm",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -4952,15 +4952,15 @@
 					"entries": [
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Desert|Barbarian|XGE|Storm Herald|XGE|14"
+							"subclassFeature": "Desert|Berserker|XGE|Storm Herald|XGE|14"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Sea|Barbarian|XGE|Storm Herald|XGE|14"
+							"subclassFeature": "Sea|Berserker|XGE|Storm Herald|XGE|14"
 						},
 						{
 							"type": "refSubclassFeature",
-							"subclassFeature": "Tundra|Barbarian|XGE|Storm Herald|XGE|14"
+							"subclassFeature": "Tundra|Berserker|XGE|Storm Herald|XGE|14"
 						}
 					]
 				}
@@ -4970,21 +4970,21 @@
 			"name": "Path of the Zealot",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
 			"subclassSource": "XGE",
 			"level": 3,
 			"entries": [
-				"Some deities inspire their followers to pitch themselves into a ferocious battle fury. These barbarians are zealots\u2014warriors who channel their rage into powerful displays of divine power.",
+				"Some deities inspire their followers to pitch themselves into a ferocious battle fury. These berserkers are zealots\u2014warriors who channel their rage into powerful displays of divine power.",
 				"A variety of gods across the worlds of D&D inspire their followers to embrace this path. Tempus from the Forgotten Realms and Hextor and Erythnul of Greyhawk are all prime examples. In general, the gods who inspire zealots are deities of combat, destruction, and violence. Not all are evil, but few are good.",
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Divine Fury|Barbarian||Zealot|XGE|3"
+					"subclassFeature": "Divine Fury|Berserker||Zealot|XGE|3"
 				},
 				{
 					"type": "refSubclassFeature",
-					"subclassFeature": "Warrior of the Gods|Barbarian||Zealot|XGE|3"
+					"subclassFeature": "Warrior of the Gods|Berserker||Zealot|XGE|3"
 				}
 			]
 		},
@@ -4992,21 +4992,21 @@
 			"name": "Divine Fury",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
 			"subclassSource": "XGE",
 			"level": 3,
 			"header": 1,
 			"entries": [
-				"Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to {@dice 1d6} + half your barbarian level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature."
+				"Starting when you choose this path at 3rd level, you can channel divine fury into your weapon strikes. While you're raging, the first creature you hit on each of your turns with a weapon attack takes extra damage equal to {@dice 1d6} + half your berserker level. The extra damage is necrotic or radiant; you choose the type of damage when you gain this feature."
 			]
 		},
 		{
 			"name": "Warrior of the Gods",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
 			"subclassSource": "XGE",
@@ -5020,7 +5020,7 @@
 			"name": "Fanatical Focus",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
 			"subclassSource": "XGE",
@@ -5034,7 +5034,7 @@
 			"name": "Zealous Presence",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
 			"subclassSource": "XGE",
@@ -5049,7 +5049,7 @@
 			"name": "Rage beyond Death",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "PRM",
 			"subclassShortName": "Zealot",
 			"subclassSource": "XGE",
@@ -5064,10 +5064,10 @@
 			"name": "Elk",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "SCAG",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"While you're raging and aren't wearing heavy armor, your walking speed increases by 15 feet. The spirit of the elk makes you extraordinarily swift."
@@ -5077,10 +5077,10 @@
 			"name": "Tiger",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "SCAG",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 3,
 			"entries": [
 				"While raging, you can add 10 feet to your long jump distance and 3 feet to your high jump distance. The spirit of the tiger empowers your leaps."
@@ -5090,10 +5090,10 @@
 			"name": "Elk",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "SCAG",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"Whether mounted or on foot, your travel pace is doubled, as is the travel pace of up to ten companions while they're within 60 feet of you and you're not {@condition incapacitated}. The elk spirit helps you roam far and fast."
@@ -5103,10 +5103,10 @@
 			"name": "Tiger",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "SCAG",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 6,
 			"entries": [
 				"You gain proficiency in two skills from the following list: {@skill Athletics}, {@skill Acrobatics}, {@skill Stealth}, and {@skill Survival}. The cat spirit hones your survival instincts."
@@ -5116,10 +5116,10 @@
 			"name": "Elk",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "SCAG",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"While raging, you can use a bonus action during your move to pass through the space of a Large or smaller creature. That creature must succeed on a Strength saving throw (DC 8 + your Strength bonus + your proficiency bonus) or be knocked {@condition prone} and take bludgeoning damage equal to {@dice 1d12} + your Strength modifier."
@@ -5129,10 +5129,10 @@
 			"name": "Tiger",
 			"source": "SCAG",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "SCAG",
 			"subclassShortName": "Totem Warrior",
-			"subclassSource": "PHB",
+			"subclassSource": "PRM",
 			"level": 14,
 			"entries": [
 				"While you're raging, if you move at least 20 feet in a straight line toward a Large or smaller target right before making a melee weapon attack against it, you can use a bonus action to make an additional melee weapon attack against it."
@@ -5142,7 +5142,7 @@
 			"name": "Desert",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5155,7 +5155,7 @@
 			"name": "Sea",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5168,7 +5168,7 @@
 			"name": "Tundra",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5181,7 +5181,7 @@
 			"name": "Desert",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5194,7 +5194,7 @@
 			"name": "Sea",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5207,7 +5207,7 @@
 			"name": "Tundra",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5220,20 +5220,20 @@
 			"name": "Desert",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
 			"level": 14,
 			"entries": [
-				"Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your barbarian level."
+				"Immediately after a creature in your aura hits you with an attack, you can use your reaction to force that creature to make a Dexterity saving throw. On a failed save, the creature takes fire damage equal to half your berserker level."
 			]
 		},
 		{
 			"name": "Sea",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
@@ -5246,7 +5246,7 @@
 			"name": "Tundra",
 			"source": "XGE",
 			"page": 0,
-			"className": "Barbarian",
+			"className": "Berserker",
 			"classSource": "XGE",
 			"subclassShortName": "Storm Herald",
 			"subclassSource": "XGE",
