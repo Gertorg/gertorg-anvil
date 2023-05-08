@@ -1,7 +1,5 @@
 {
 	"_meta": {
-		"dateAdded": 0,
-		"dateLastModified": 0,
 		"sources": [
 			{
 				"json": "PRM",
@@ -18,6 +16,8 @@
 				"version": "0.1"
 			}
 		],
+		"dateAdded": 0,
+		"dateLastModified": 0,
 		"currencyConversions": {
 			"UniversalCredits": [
 				{
@@ -50,14 +50,16 @@
 		}
 	},
 	"skill": [
-		{	"name": "Acrobatics",
+		{
+			"name": "Acrobatics",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Your Dexterity (Acrobatics) check covers your attempt to stay on your feet in a tricky situation, such as when you're trying to run across a sheet of ice, balance on a tightrope, or stay upright on a rocking ship's deck. The DM might also call for a Dexterity (Acrobatics) check to see if you can perform acrobatic stunts, including dives, rolls, somersaults, and flips."
 			]
 		},
-		{	"name": "Athletics",
+		{
+			"name": "Athletics",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -72,56 +74,64 @@
 				}
 			]
 		},
-		{	"name": "Computers",
+		{
+			"name": "Computers",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Your Intelligence (Computers) check covers attempts to hack computer systems, navigate unfamiliar programs or operating systems, reprogram a computer-operated panel or device, or extract data from a secure server."
 			]
 		},
-		{	"name": "Deception",
+		{
+			"name": "Deception",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Your Charisma (Deception) check determines whether you can convincingly hide the truth, either verbally or through your actions. This deception can encompass everything from misleading others through ambiguity to telling outright lies. Typical situations include trying to fast-talk a guard, con a merchant, earn money through gambling, pass yourself off in a disguise, dull someone's suspicions with false assurances, or maintain a straight face while telling a blatant lie."
 			]
 		},
-		{	"name": "Engineering",
+		{
+			"name": "Engineering",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Your Intelligence (Engineering) check covers your knowledge of electronic and mechanical devices and machines. It may determine your ability to repair devices, spot weaknesses in mechanical defense systems, diagnose potential vehicle failures before they happen, or find expensive parts to salvage."
 			]
 		},
-		{	"name": "Insight",
+		{
+			"name": "Insight",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Your Wisdom (Insight) check decides whether you can determine the true intentions of a creature, such as when searching out a lie or predicting someone's next move. Doing so involves gleaning clues from body language, speech habits, and changes in mannerisms."
 			]
 		},
-		{	"name": "Intimidation",
+		{
+			"name": "Intimidation",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"When you attempt to influence someone through overt threats, hostile actions, and physical violence, the DM might ask you to make a Charisma (Intimidation) check. Examples include trying to pry information out of a prisoner, convincing street thugs to back down from a confrontation, or using the edge of a broken bottle to convince a sneering vizier to reconsider a decision."
 			]
 		},
-		{	"name": "Investigation",
+		{
+			"name": "Investigation",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"When you look around for clues and make deductions based on those clues, you make an Intelligence (Investigation) check. You might deduce the location of a hidden object, discern from the appearance of a wound what kind of weapon dealt it, or determine the weakest point in a tunnel that could cause it to collapse. Poring through ancient scrolls in search of a hidden fragment of knowledge might also call for an Intelligence (Investigation) check."
 			]
 		},
-		{	"name": "Medicine",
+		{
+			"name": "Medicine",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"A Wisdom (Medicine) check lets you try to treat a wound, stabilize a dying companion, or diagnose an illness."
 			]
 		},
-		{	"name": "Perception",
+		{
+			"name": "Perception",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -129,56 +139,64 @@
 				"For example, you might try to hear a conversation through a closed door, eavesdrop under an open window, or hear monsters moving stealthily in the forest. Or you might try to spot things that are obscured or easy to miss, whether they are orcs lying in ambush on a road, thugs hiding in the shadows of an alley, or candlelight under a closed secret door."
 			]
 		},
-		{	"name": "Performance",
+		{
+			"name": "Performance",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Your Charisma (Performance) check determines how well you can delight an audience with music, dance, acting, storytelling, or some other form of entertainment."
 			]
 		},
-		{	"name": "Persuasion",
+		{
+			"name": "Persuasion",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"When you attempt to influence someone or a group of people with tact, social graces, or good nature, the DM might ask you to make a Charisma (Persuasion) check. Typically, you use persuasion when acting in good faith, to foster friendships, make cordial requests, or exhibit proper etiquette. Examples of persuading others include convincing a chamberlain to let your party see the king, negotiating peace between warring tribes, or inspiring a crowd of townsfolk."
 			]
 		},
-		{	"name": "Science (Life)",
+		{
+			"name": "Science (Life)",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"This skill reflects your knowledge of biology, anatomy, pathology, genetics, or other scientific endeavor concerning life. An Intelligence (Life Science) check may allow the character to identify animals, plants, and microorganisms and recall information about their anatomy or other properties."
 			]
 		},
-		{	"name": "Science (Physical)",
+		{
+			"name": "Science (Physical)",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"This skill reflects your knowledge of chemistry, physics, mathematics, geology, or other scientific endeavor concerning non-living systems. An Intelligence (Physical Science) check may allow the character to identify chemical compounds and elements, create toxins, explosives, or powerful solvents, solve complex mathematical puzzles, and explain anomalous natural events."
 			]
 		},
-		{	"name": "Science (Social)",
+		{
+			"name": "Science (Social)",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"This skill reflects your knowledge of history, psychology, philosophy, anthropology, religion, or other academic field concerning the humanoid condition. An Intelligence (Social Science) check may allow your character to explain cultural traditions, recall relevant laws and regulations, discern mental conditions, and recite lore about historical events or people."
 			]
 		},
-		{	"name": "Sleight of Hand",
+		{
+			"name": "Sleight of Hand",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Whenever you attempt an act of legerdemain or manual trickery, such as planting something on someone else or concealing an object on your person, make a Dexterity (Sleight of Hand) check. The DM might also call for a Dexterity (Sleight of Hand) check to determine whether you can lift a coin purse off another person or slip something out of another person's pocket."
 			]
 		},
-		{	"name": "Stealth",
+		{
+			"name": "Stealth",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
 				"Make a Dexterity (Stealth) check when you attempt to conceal yourself from enemies, slink past guards, slip away without being noticed, or sneak up on someone without being seen or heard."
 			]
 		},
-		{	"name": "Survival",
+		{
+			"name": "Survival",
 			"source": "PRM",
 			"page": 0,
 			"entries": [
@@ -187,7 +205,8 @@
 		}
 	],
 	"itemProperty": [
-		{	"name": "ammunition",
+		{
+			"name": "ammunition",
 			"abbreviation": "AM",
 			"source": "PRM",
 			"page": 0,
@@ -201,9 +220,10 @@
 					]
 				}
 			],
-			"template": "{{prop_name}} ({{item.ammoType}}, {{item.range}}\u00A0ft.)"
+			"template": "{{prop_name}} ({{item.ammoType}}, {{item.range}} ft.)"
 		},
-		{	"name": "auto",
+		{
+			"name": "auto",
 			"abbreviation": "AU",
 			"source": "PRM",
 			"page": 0,
@@ -218,7 +238,8 @@
 			],
 			"template": "{{prop_name}} ({{item.dmg2}})"
 		},
-		{	"name": "chain",
+		{
+			"name": "chain",
 			"abbreviation": "CH",
 			"source": "PRM",
 			"page": 0,
@@ -233,7 +254,8 @@
 			],
 			"template": "{{prop_name}} ({{item.dmg2}})"
 		},
-		{	"name": "feed",
+		{
+			"name": "feed",
 			"abbreviation": "FD",
 			"source": "PRM",
 			"page": 0,
@@ -248,7 +270,8 @@
 			],
 			"template": "{{prop_name}} ({{item.reload}} shots)"
 		},
-		{	"name": "light",
+		{
+			"name": "light",
 			"abbreviation": "LT",
 			"source": "PRM",
 			"page": 0,
@@ -262,7 +285,8 @@
 				}
 			]
 		},
-		{	"name": "loading",
+		{
+			"name": "loading",
 			"abbreviation": "LD",
 			"source": "PRM",
 			"page": 0,
@@ -276,7 +300,8 @@
 				}
 			]
 		},
-		{	"name": "reload",
+		{
+			"name": "reload",
 			"abbreviation": "RL",
 			"source": "PRM",
 			"page": 0,
@@ -291,7 +316,8 @@
 			],
 			"template": "{{prop_name}} ({{item.reload}} shots)"
 		},
-		{	"name": "spread",
+		{
+			"name": "spread",
 			"abbreviation": "SPR",
 			"source": "PRM",
 			"page": 0,
@@ -306,7 +332,8 @@
 				}
 			]
 		},
-		{	"name": "Strength",
+		{
+			"name": "Strength",
 			"abbreviation": "STR",
 			"source": "PRM",
 			"page": 0,
@@ -323,7 +350,8 @@
 		}
 	],
 	"itemType": [
-		{	"name": "Sidearm",
+		{
+			"name": "Sidearm",
 			"abbreviation": "SA",
 			"source": "PRM",
 			"page": 0,
@@ -331,7 +359,8 @@
 				"These are one-handed firearms that require little training to use effectively."
 			]
 		},
-		{	"name": "Longarm",
+		{
+			"name": "Longarm",
 			"abbreviation": "LA",
 			"source": "PRM",
 			"page": 0,
@@ -341,7 +370,8 @@
 		}
 	],
 	"baseitem": [
-		{	"name": "Baton",
+		{
+			"name": "Baton",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -359,7 +389,8 @@
 			"club": true,
 			"weapon": true
 		},
-		{	"name": "Battleaxe",
+		{
+			"name": "Battleaxe",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -379,7 +410,8 @@
 			"axe": true,
 			"weapon": true
 		},
-		{	"name": "Brass Knuckles",
+		{
+			"name": "Brass Knuckles",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -395,7 +427,8 @@
 			"dmgType": "B",
 			"weapon": true
 		},
-		{	"name": "Chainsaw",
+		{
+			"name": "Chainsaw",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"type": "M",
@@ -415,7 +448,8 @@
 				"2H"
 			]
 		},
-		{	"name": "Club",
+		{
+			"name": "Club",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -434,7 +468,8 @@
 			"club": true,
 			"weapon": true
 		},
-		{	"name": "Dagger",
+		{
+			"name": "Dagger",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -456,7 +491,8 @@
 			"dagger": true,
 			"weapon": true
 		},
-		{	"name": "Dart",
+		{
+			"name": "Dart",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -476,7 +512,8 @@
 			"dmgType": "P",
 			"weapon": true
 		},
-		{	"name": "Flail",
+		{
+			"name": "Flail",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -491,7 +528,8 @@
 			"dmgType": "B",
 			"weapon": true
 		},
-		{	"name": "Flamethrower",
+		{
+			"name": "Flamethrower",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"type": "R",
@@ -518,7 +556,8 @@
 				}
 			]
 		},
-		{	"name": "Glaive",
+		{
+			"name": "Glaive",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -538,7 +577,8 @@
 			"dmgType": "S",
 			"weapon": true
 		},
-		{	"name": "Greataxe",
+		{
+			"name": "Greataxe",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -558,7 +598,8 @@
 			"axe": true,
 			"weapon": true
 		},
-		{	"name": "Greatclub",
+		{
+			"name": "Greatclub",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -577,7 +618,8 @@
 			"club": true,
 			"weapon": true
 		},
-		{	"name": "Greatsword",
+		{
+			"name": "Greatsword",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -597,7 +639,8 @@
 			"sword": true,
 			"weapon": true
 		},
-		{	"name": "Hammer",
+		{
+			"name": "Hammer",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -618,7 +661,8 @@
 			"hammer": true,
 			"weapon": true
 		},
-		{	"name": "Hand Crossbow",
+		{
+			"name": "Hand Crossbow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -641,7 +685,8 @@
 			"weapon": true,
 			"ammoType": "{@item crossbow bolt|prm}"
 		},
-		{	"name": "Handaxe",
+		{
+			"name": "Handaxe",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -661,7 +706,8 @@
 			"axe": true,
 			"weapon": true
 		},
-		{	"name": "Heavy Crossbow",
+		{
+			"name": "Heavy Crossbow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -685,7 +731,8 @@
 			"weapon": true,
 			"ammoType": "{@item crossbow bolt|prm}"
 		},
-		{	"name": "Launcher, grenade",
+		{
+			"name": "Launcher, grenade",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -715,7 +762,8 @@
 				}
 			]
 		},
-		{	"name": "Launcher, rocket",
+		{
+			"name": "Launcher, rocket",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -746,7 +794,8 @@
 				}
 			]
 		},
-		{	"name": "Light Crossbow",
+		{
+			"name": "Light Crossbow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -769,7 +818,8 @@
 			"weapon": true,
 			"ammoType": "{@item crossbow bolt|prm}"
 		},
-		{	"name": "Light machine gun (LMG)",
+		{
+			"name": "Light machine gun (LMG)",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -794,7 +844,8 @@
 			"weapon": true,
 			"ammoType": "{@item bullet, medium-caliber|prm}"
 		},
-		{	"name": "Longbow",
+		{
+			"name": "Longbow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -817,7 +868,8 @@
 			"weapon": true,
 			"ammoType": "{@item arrow|prm}"
 		},
-		{	"name": "Longsword",
+		{
+			"name": "Longsword",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -837,7 +889,8 @@
 			"sword": true,
 			"weapon": true
 		},
-		{	"name": "Mace",
+		{
+			"name": "Mace",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -853,7 +906,8 @@
 			"mace": true,
 			"weapon": true
 		},
-		{	"name": "Maul",
+		{
+			"name": "Maul",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -873,7 +927,8 @@
 			"hammer": true,
 			"weapon": true
 		},
-		{	"name": "Mini Chainsaw",
+		{
+			"name": "Mini Chainsaw",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"type": "M",
@@ -891,7 +946,8 @@
 				"STR"
 			]
 		},
-		{	"name": "Morningstar",
+		{
+			"name": "Morningstar",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -907,7 +963,8 @@
 			"mace": true,
 			"weapon": true
 		},
-		{	"name": "Pike",
+		{
+			"name": "Pike",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -927,7 +984,8 @@
 			"dmgType": "P",
 			"weapon": true
 		},
-		{	"name": "Pistol, energy",
+		{
+			"name": "Pistol, energy",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -948,7 +1006,8 @@
 			"weapon": true,
 			"ammoType": "{@item energy cell|prm}"
 		},
-		{	"name": "Pistol, machine",
+		{
+			"name": "Pistol, machine",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -972,7 +1031,8 @@
 			"weapon": true,
 			"ammoType": "{@item bullet, low-caliber|prm}"
 		},
-		{	"name": "Pistol, medium-caliber",
+		{
+			"name": "Pistol, medium-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -993,7 +1053,8 @@
 			"weapon": true,
 			"ammoType": "{@item bullet, medium-caliber|prm}"
 		},
-		{	"name": "Pistol, revolver",
+		{
+			"name": "Pistol, revolver",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1014,7 +1075,8 @@
 			"weapon": true,
 			"ammoType": "{@item bullet, medium-caliber|prm}"
 		},
-		{	"name": "Pistol, shot",
+		{
+			"name": "Pistol, shot",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1036,7 +1098,8 @@
 			"weapon": true,
 			"ammoType": "{@item shotgun shell|prm}"
 		},
-		{	"name": "Power Gauntlet",
+		{
+			"name": "Power Gauntlet",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"type": "M",
@@ -1060,7 +1123,8 @@
 				}
 			]
 		},
-		{	"name": "Rapier",
+		{
+			"name": "Rapier",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1079,7 +1143,8 @@
 			"sword": true,
 			"weapon": true
 		},
-		{	"name": "Rifle, assault",
+		{
+			"name": "Rifle, assault",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1103,7 +1168,8 @@
 			"weapon": true,
 			"ammoType": "{@item bullet, medium-caliber|prm}"
 		},
-		{	"name": "Rifle, energy",
+		{
+			"name": "Rifle, energy",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1125,7 +1191,8 @@
 			"weapon": true,
 			"ammoType": "{@item energy cell|prm}"
 		},
-		{	"name": "Rifle, sniper",
+		{
+			"name": "Rifle, sniper",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1158,7 +1225,8 @@
 				}
 			]
 		},
-		{	"name": "Scimitar",
+		{
+			"name": "Scimitar",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1178,7 +1246,8 @@
 			"sword": true,
 			"weapon": true
 		},
-		{	"name": "Shortbow",
+		{
+			"name": "Shortbow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1200,7 +1269,8 @@
 			"weapon": true,
 			"ammoType": "{@item arrow|prm}"
 		},
-		{	"name": "Shortsword",
+		{
+			"name": "Shortsword",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1220,7 +1290,8 @@
 			"sword": true,
 			"weapon": true
 		},
-		{	"name": "Shotgun",
+		{
+			"name": "Shotgun",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1244,7 +1315,8 @@
 			"weapon": true,
 			"ammoType": "{@item shotgun shell|prm}"
 		},
-		{	"name": "Spear",
+		{
+			"name": "Spear",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1266,7 +1338,8 @@
 			"spear": true,
 			"weapon": true
 		},
-		{	"name": "Staff",
+		{
+			"name": "Staff",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1285,7 +1358,8 @@
 			"dmg2": "1d8",
 			"weapon": true
 		},
-		{	"name": "Submachine gun (SMG)",
+		{
+			"name": "Submachine gun (SMG)",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1309,7 +1383,8 @@
 			"weapon": true,
 			"ammoType": "{@item bullet, low-caliber|prm}"
 		},
-		{	"name": "Throwing Knife",
+		{
+			"name": "Throwing Knife",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1328,7 +1403,8 @@
 			"dmgType": "P",
 			"weapon": true
 		},
-		{	"name": "Warhammer",
+		{
+			"name": "Warhammer",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1348,7 +1424,8 @@
 			"hammer": true,
 			"weapon": true
 		},
-		{	"name": "Whip",
+		{
+			"name": "Whip",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1367,7 +1444,8 @@
 			"dmgType": "S",
 			"weapon": true
 		},
-		{	"name": "Arrow",
+		{
+			"name": "Arrow",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1378,7 +1456,8 @@
 			"weight": 0.05,
 			"value": 10
 		},
-		{	"name": "Bullet, High-caliber",
+		{
+			"name": "Bullet, High-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1387,7 +1466,8 @@
 			"weight": 0.2,
 			"value": 50
 		},
-		{	"name": "Bullet, Low-caliber",
+		{
+			"name": "Bullet, Low-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1396,7 +1476,8 @@
 			"weight": 0.1,
 			"value": 5
 		},
-		{	"name": "Bullet, Medium-caliber",
+		{
+			"name": "Bullet, Medium-caliber",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1405,7 +1486,8 @@
 			"weight": 0.15,
 			"value": 10
 		},
-		{	"name": "Crossbow Bolt",
+		{
+			"name": "Crossbow Bolt",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1416,7 +1498,8 @@
 			"weight": 0.075,
 			"value": 10
 		},
-		{	"name": "Energy Cell",
+		{
+			"name": "Energy Cell",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1425,7 +1508,8 @@
 			"weight": 0.3125,
 			"value": 500
 		},
-		{	"name": "Fuel",
+		{
+			"name": "Fuel",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"type": "A",
@@ -1433,7 +1517,8 @@
 			"weight": 6,
 			"value": 750
 		},
-		{	"name": "Grenade",
+		{
+			"name": "Grenade",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1442,7 +1527,8 @@
 			"weight": 0.5,
 			"value": 1000
 		},
-		{	"name": "Rocket",
+		{
+			"name": "Rocket",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"page": 0,
@@ -1451,7 +1537,8 @@
 			"weight": 2,
 			"value": 1500
 		},
-		{	"name": "Shotgun Shell",
+		{
+			"name": "Shotgun Shell",
 			"source": "PRM",
 			"currencyConversion": "UniversalCredits",
 			"type": "A",
@@ -1461,7 +1548,8 @@
 		}
 	],
 	"spell": [
-		{	"name": "Advanced Treatment",
+		{
+			"name": "Advanced Treatment",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -1497,7 +1585,7 @@
 			"fluff": {
 				"entries": [
 					"Hyperlanes (p. 110)",
-					"PHB (p. 267)"
+					"PHB (Prayer of Healing, p. 267)"
 				]
 			},
 			"areaTags": [
@@ -1519,7 +1607,8 @@
 				"HL"
 			]
 		},
-		{	"name": "Alert",
+		{
+			"name": "Alert",
 			"level": 1,
 			"school": "Hacking",
 			"time": [
@@ -1579,7 +1668,8 @@
 				]
 			}
 		},
-		{	"name": "Counterattack",
+		{
+			"name": "Counterattack",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -1629,7 +1719,8 @@
 				"MT"
 			]
 		},
-		{	"name": "Intercept Communications",
+		{
+			"name": "Intercept Communications",
 			"level": 4,
 			"school": "D",
 			"time": [
@@ -1673,7 +1764,8 @@
 				]
 			}
 		},
-		{	"name": "Gravity Field",
+		{
+			"name": "Gravity Field",
 			"level": 5,
 			"school": "A",
 			"time": [
@@ -1720,7 +1812,8 @@
 				"S"
 			]
 		},
-		{	"name": "Analysis",
+		{
+			"name": "Analysis",
 			"level": 3,
 			"school": "D",
 			"time": [
@@ -1768,7 +1861,8 @@
 				"ST"
 			]
 		},
-		{	"name": "Electromagnetic Field",
+		{
+			"name": "Electromagnetic Field",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -1825,7 +1919,8 @@
 				"S"
 			]
 		},
-		{	"name": "Precision Fire",
+		{
+			"name": "Precision Fire",
 			"level": 3,
 			"school": "A",
 			"time": [
@@ -1877,7 +1972,8 @@
 				]
 			}
 		},
-		{	"name": "Elemental Ammo",
+		{
+			"name": "Elemental Ammo",
 			"level": 1,
 			"school": "T",
 			"time": [
@@ -1918,7 +2014,8 @@
 				"m": "Ranged weapon with the reload property"
 			}
 		},
-		{	"name": "Dead Aim",
+		{
+			"name": "Dead Aim",
 			"level": 2,
 			"school": "A",
 			"time": [
@@ -1961,7 +2058,8 @@
 				]
 			}
 		},
-		{	"name": "Bash",
+		{
+			"name": "Bash",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -2005,7 +2103,8 @@
 				"M"
 			]
 		},
-		{	"name": "Maneuver",
+		{
+			"name": "Maneuver",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -2042,7 +2141,8 @@
 				"v": true
 			}
 		},
-		{	"name": "Taunt",
+		{
+			"name": "Taunt",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -2090,7 +2190,8 @@
 				"ST"
 			]
 		},
-		{	"name": "Happy Gas",
+		{
+			"name": "Happy Gas",
 			"level": 0,
 			"school": "A",
 			"time": [
@@ -2135,10 +2236,372 @@
 			"areaTags": [
 				"ST"
 			]
+		},
+		{
+			"name": "Speed Serum",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					}
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"You inject a creature with a muscle stimulant. For the duration, the target's speed increases by 10 feet."
+			],
+			"source": "PRM",
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this power using a power slot of 2nd level or higher, you can target one additional creature for each slot level above 1st."
+					]
+				}
+			],
+			"fluff": {
+				"entries": [
+					"PHB (Longstrider, p. 256)"
+				]
+			}
+		},
+		{
+			"name": "Assault",
+			"level": 2,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "radius",
+				"distance": {
+					"type": "feet",
+					"amount": 30
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"Until the start of your next turn, each creature you choose within range gains the following benefits:",
+				"- Speed is increased by 10 feet.",
+				"- The creature can make one weapon attack as a bonus action on their turn."
+			],
+			"source": "PRM",
+			"components": {
+				"v": true
+			},
+			"areaTags": [
+				"MT"
+			],
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p. 112)"
+				]
+			}
+		},
+		{
+			"name": "Break Away",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "reaction",
+					"condition": "which you take when a hostile creature moves within 5 feet of you"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"You can immediately move up to half your speed without provoking opportunity attacks."
+			],
+			"source": "PRM",
+			"fluff": {
+				"entries": [
+					"Hyperlanes (p. 115)"
+				]
+			}
+		},
+		{
+			"name": "Fog Cloud",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "feet",
+					"amount": 60
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "hour",
+						"amount": 1
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"You deploy a device that produces a 20-foot radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it."
+			],
+			"source": "PRM",
+			"components": {
+				"m": "Basic Chemicals"
+			},
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this power using a power slot of 2nd level or higher, the radius of the fog increases by 20 feet for each slot level above 1st."
+					]
+				}
+			],
+			"fluff": {
+				"entries": [
+					"PHB (p. 243)"
+				]
+			},
+			"areaTags": [
+				"S"
+			],
+			"miscTags": [
+				"OBS"
+			]
+		},
+		{
+			"name": "Detect Poison and Disease",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "timed",
+					"duration": {
+						"type": "minute",
+						"amount": 10
+					},
+					"concentration": true
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"For the duration, your scanner can sense the presence and location of poisons, poisonous creatures, and diseases within 30 feet of you. You also identify the kind of poison, poisonous creature, or disease in each case."
+			],
+			"source": "PRM",
+			"components": {
+				"m": "Medical Tools or Science Tools"
+			},
+			"fluff": {
+				"entries": [
+					"PHB (p. 231)"
+				]
+			}
+		},
+		{
+			"name": "Harmful Injection",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "touch"
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Technomancer",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"You inject a creature with a harmful substance that causes tissue damage. Make a melee power attack against a creature you can reach. On a hit, the target takes {@damage 3d10} necrotic damage."
+			],
+			"source": "PRM",
+			"components": {
+				"m": "Medical Tools"
+			},
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this spell using a spell slot of 2nd level or higher, the damage increases by {@dice 1d10} for each slot level above 1st."
+					]
+				}
+			],
+			"fluff": {
+				"entries": [
+					"PHB (Inflict Wounds, p. 253)"
+				]
+			},
+			"spellAttack": [
+				"M"
+			],
+			"damageInflict": [
+				"necrotic"
+			],
+			"areaTags": [
+				"ST"
+			]
+		},
+		{
+			"name": "Light 'Em Up",
+			"level": 1,
+			"school": "A",
+			"time": [
+				{
+					"number": 1,
+					"unit": "action"
+				}
+			],
+			"range": {
+				"type": "point",
+				"distance": {
+					"type": "self"
+				}
+			},
+			"duration": [
+				{
+					"type": "instant"
+				}
+			],
+			"classes": {
+				"fromClassList": [
+					{
+						"name": "Leader",
+						"source": "PRM"
+					}
+				]
+			},
+			"entries": [
+				"Before the end of your turn, you can make two ranged weapon attacks. You can use your powercasting ability, instead of Strength or Dexterity, for the attack and damage rolls."
+			],
+			"source": "PRM",
+			"components": {
+				"m": "ranged weapon"
+			},
+			"entriesHigherLevel": [
+				{
+					"type": "entries",
+					"name": "At Higher Levels",
+					"entries": [
+						"When you cast this power using a power slot of 2nd level or higher, make one additional ranged weapon attack for each slot level above 1st."
+					]
+				}
+			],
+			"fluff": {
+				"entries": [
+					"Hyperlanes (Double Tap, p. 123)"
+				]
+			}
 		}
 	],
 	"condition": [
-		{	"name": "Exposed",
+		{
+			"name": "Exposed",
 			"entries": [
 				{
 					"type": "list",
@@ -2150,7 +2613,8 @@
 			"source": "PRM",
 			"page": 0
 		},
-		{	"name": "Prone",
+		{
+			"name": "Prone",
 			"entries": [
 				{
 					"type": "list",
@@ -2164,7 +2628,8 @@
 			"source": "PRM",
 			"page": 0
 		},
-		{	"name": "Suppressed",
+		{
+			"name": "Suppressed",
 			"entries": [
 				{
 					"type": "list",
